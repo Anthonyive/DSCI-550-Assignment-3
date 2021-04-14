@@ -1,0 +1,29 @@
+date
+index
+location
+now frequency
+time
+urgent frequency
+wrong cap ratio
+attacker estimated age
+attacker relationship
+credential_phishing
+female count
+has offer
+high total cholesterol rate
+hypertension rate
+ip
+male count
+malware
+obesity rate
+reconnaissance
+sentiment analysis
+social_engineering
+stock_close
+stock_open
+stock_volume
+title
+unknown count
+wrongspellnumber
+ip_risk
+ip_score
