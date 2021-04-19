@@ -1,0 +1,20 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+  <div class="container" id="vis4">
+    <div id="observablehq-489ee840"></div>
+    <p>Credit: <a href="https://observablehq.com/@anthonyive/dsci-550-assignment-3-vis4">Calendar View of Fraudulent Emails by Yuchen Zhang</a></p>
+
+    <script type="module">
+    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+    import define from "https://api.observablehq.com/@anthonyive/dsci-550-assignment-3-vis4.js?v=3";
+    new Runtime().module(define, Inspector.into("#observablehq-489ee840"));
+    </script>
+  </div>
+  
+  
+
+  
+
+{% endblock %}
