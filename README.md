@@ -1,9 +1,5 @@
 # Building Visual Apps to Explore Fake Scientific People and Literature using Data Science: Creating Data Insights
 
-![GitHub watchers](https://img.shields.io/github/watchers/Anthonyive/DSCI-550-Assignment-3?style=social) ![GitHub Repo stars](https://img.shields.io/github/stars/Anthonyive/DSCI-550-Assignment-3?style=social) ![GitHub forks](https://img.shields.io/github/forks/Anthonyive/DSCI-550-Assignment-3?style=social)
-
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=flat-square&logo=Jupyter)](https://jupyter.org/try) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square)](https://www.python.org/) ![commit activity](https://img.shields.io/github/commit-activity/m/Anthonyive/DSCI-550-Assignment-3?style=flat-square) ![repo size](https://img.shields.io/github/repo-size/Anthonyive/DSCI-550-Assignment-3?style=flat-square)
-
 [Quick Access to Instructions](docs/DSCI550_Spring2021_HW_WEBDATAVIZ_PHISHING.pdf) | [Quick Access to Report](#) 
 
 ## Prerequisite
