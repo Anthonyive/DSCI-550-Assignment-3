@@ -12,6 +12,10 @@ app = Flask(__name__)
 def home():
     return render_template('home.html')
 
+@app.route('/vis3')
+def vis3():
+    return render_template('vis3.html')
+
 @app.route('/vis4')
 def vis4():
     return render_template('vis4.html')
