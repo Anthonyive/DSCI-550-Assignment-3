@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+  <div class="container" id="vis4">
+<div id="observablehq-chart-66b52329"></div>
+<p>Credit: <a href="https://observablehq.com/@drizzle98/attack-type-venn">Proportional Venn by drizzle98</a></p>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@drizzle98/attack-type-venn.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-66b52329"));
+});
+</script>
+  </div>
+  
+  
+
+  
+
+{% endblock %}
