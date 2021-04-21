@@ -3,13 +3,26 @@
 {% block body %}
 
   <div class="container" id="vis4">
-    <div id="observablehq-489ee840"></div>
+    <h1>
+      Calendar View of Fraudulent Emails
+    </h1>
+    <p>
+      This chart shows daily changes of the stock price using fraudulent emails dataset from kaggle.
+    </p>
+    <div id="observablehq-viewof-weekday-18192b05"></div>
+    <div id="observablehq-key-18192b05"></div>
+    <div id="observablehq-chart-18192b05"></div>
     <p>Credit: <a href="https://observablehq.com/@anthonyive/dsci-550-assignment-3-vis4">Calendar View of Fraudulent Emails by Yuchen Zhang</a></p>
 
     <script type="module">
     import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
     import define from "https://api.observablehq.com/@anthonyive/dsci-550-assignment-3-vis4.js?v=3";
-    new Runtime().module(define, Inspector.into("#observablehq-489ee840"));
+    new Runtime().module(define, name => {
+      if (name === "viewof weekday") return new Inspector(document.querySelector("#observablehq-viewof-weekday-18192b05"));
+      if (name === "key") return new Inspector(document.querySelector("#observablehq-key-18192b05"));
+      if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-18192b05"));
+      return ["height","timeWeek","countDay","pathMonth"].includes(name);
+    });
     </script>
   </div>
   
