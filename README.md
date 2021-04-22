@@ -11,12 +11,12 @@
 
 1. **[Task 1]** Take your TSV dataset and convert the data to JSON to use in D3.
 
-   - We are using modified version of etllib for Python 3.7: [https://github.com/Anthonyive/etllib.git](https://github.com/Anthonyive/etllib.git)
-   - Example usage:
+  - We are using modified version of etllib for Python 3.7: [https://github.com/Anthonyive/etllib.git](https://github.com/Anthonyive/etllib.git)
+  - Example usage:
 
-     ```bash
-     tsvtojson -t additional_features.tsv -c cols.txt -o "Email" -s 1.0 -v -j assignment-2.json
-     ```
+    ```bash
+    tsvtojson -t additional_features.tsv -c cols.txt -o "Email" -s 1.0 -v -j assignment-2.json
+    ```
 
 2. **[Task 2]** 
    
