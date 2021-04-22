@@ -11,37 +11,37 @@
 
 1. **[Task 1]** Take your TSV dataset and convert the data to JSON to use in D3.
 
-  - We are using modified version of etllib for Python 3.7: [https://github.com/Anthonyive/etllib.git](https://github.com/Anthonyive/etllib.git)
-  - Example usage:
+- We are using modified version of etllib for Python 3.7: [https://github.com/Anthonyive/etllib.git](https://github.com/Anthonyive/etllib.git)
+- Example usage:
 
-    ```bash
-    tsvtojson -t additional_features.tsv -c cols.txt -o "Email" -s 1.0 -v -j assignment-2.json
-    ```
+ ```bash
+ tsvtojson -t additional_features.tsv -c cols.txt -o "Email" -s 1.0 -v -j assignment-2.json
+ ```
 
-2. **[Task 2]** 
-   
-  - Data preparation: Run notebooks in [notebooks directory](notebooks/) except for visualization 4. For visualization 4, run Python script called `vis4conversion.py` in the [src directory](src/)
-  - We are using Flask to build our website. To run locally:
+2. **[Task 2]**
 
-    1. Set Flask app in your virtual environment:
+- Data preparation: Run notebooks in [notebooks directory](notebooks/) except for visualization 4. For visualization 4, there's a Python script called `vis4conversion.py` in the [src directory](src/) and run it in the root directory.
+- We are using Flask to build our website. To run locally:
 
-      ```bash
-      export FLASK_APP=app.py
-      ```
+  1. Set Flask app in your virtual environment:
 
-    2. (Optional) Set Flask environment as development:
+   ```bash
+   export FLASK_APP=app.py
+   ```
 
-      ```bash
-      export FLASK_ENV=development
-      ```
+  2. (Optional) Set Flask environment as development:
 
-    3. Run Flask
+   ```bash
+   export FLASK_ENV=development
+   ```
 
-      ```bash
-      flask run
-      ```
+  3. Run Flask
 
-    4. Click the localhost link it provides.
+   ```bash
+   flask run
+   ```
+
+  4. Click the localhost link it provides.
 
 ## About
 
