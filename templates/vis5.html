@@ -1,5 +1,6 @@
-<!DOCTYPE html>
-<meta charset="utf-8">
+{% extends 'layout.html' %}
+
+{% block body %}
 
 <!-- Load d3.js and the geo projection plugin -->
 <script src="https://d3js.org/d3.v4.js"></script>
@@ -131,3 +132,6 @@
           .attr('alignment-baseline', 'middle')
    }
 </script>
+
+
+{% endblock %}

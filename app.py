@@ -21,11 +21,6 @@ def vis1():
 def vis2():
     return render_template('vis2.html')
 
-@app.route('/vis2')
-def vis2():
-    return render_template('vis2.html')
-
-
 @app.route('/vis3')
 def vis3():
     return render_template('vis3.html')
