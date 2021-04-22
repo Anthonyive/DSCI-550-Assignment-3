@@ -6,8 +6,10 @@
 <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 
+
+<h1 style="text-align:center;">Buuble Map of Fradulent Emails Attcker Locations</h1>
 <!-- Create an element where the map will take place -->
-<svg id="my_dataviz" width="850" height="450"></svg>
+<svg id="my_dataviz" width="1350" height="600"></svg>
 
 <script>
 
@@ -79,19 +81,19 @@
            // Add title and explanation
         svg.append("text")
            .attr("text-anchor", "end")
-           .style("fill", "Blue")
-           .attr("x", width - 20)
-           .attr("y", height - 50)
-           .attr("width", 100)
-           .html("Spam Email Attackers Bubble Map \
-            Create By : Siqi Zheng")
-           .style("font-size", 20)
+           .style("fill", "Brown")
+           .attr("x", width - 40)
+           .attr("y", height - 30)
+           .attr("width", 200)
+           .html("Credit : Spam Email Attackers Location Bubble Map\
+            by Nat Zheng")
+           .style("font-size", 18)
 
 
           // Add legend: circles
       var valuesToShow = [10,200,800]
-      var xCircle = 80
-      var xLabel = 100
+      var xCircle = 300
+      var xLabel = 350
       svg
         .selectAll("legend")
         .data(valuesToShow)
@@ -125,7 +127,7 @@
           .attr('x', xLabel)
           .attr('y', function(d){ return height - size(d) } )
           .text( function(d){ return d } )
-          .style("font-size", 10)
+          .style("font-size", 15)
           .attr('alignment-baseline', 'middle')
    }
 </script>
