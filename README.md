@@ -42,6 +42,11 @@
    ```
 
   4. Click the localhost link it provides.
+ 
+ 3. **[Task 6]**
+ 
+ - We have already parsed the fradulent emails data from assignment 1 and assignment 2 in Apache Solr and created the location graph in GeoParser. The generated graphs are included in the [GeoParser Directory](GeoParser/).
+ - If you would love to recreate the graphs, follow the steps in [GeoParser Repo](https://github.com/nasa-jpl-memex/GeoParser/wiki/Sample:-COVID19-publication-data-parsing), and switch the example of Covid19 to one of the folders we created [here](GeoParser/).
 
 ## About
 
