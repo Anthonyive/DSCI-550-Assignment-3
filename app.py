@@ -12,6 +12,15 @@ app = Flask(__name__)
 def home():
     return render_template('home.html')
 
+
+@app.route('/vis1')
+def vis1():
+    return render_template('vis1.html')
+    
+@app.route('/vis2')
+def vis2():
+    return render_template('vis2.html')
+
 @app.route('/vis3')
 def vis3():
     return render_template('vis3.html')
@@ -19,6 +28,10 @@ def vis3():
 @app.route('/vis4')
 def vis4():
     return render_template('vis4.html')
+
+@app.route('/vis5')
+def vis5():
+    return render_template('vis5.html')
 
 if __name__ == '__main__':
     app.run(debug=True)

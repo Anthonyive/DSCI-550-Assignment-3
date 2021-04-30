@@ -1,0 +1,28 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+  <div class="container" id="vis2">
+
+    <h1>Attack type popularity and connectivity</h1>
+    <br>
+    <p>'RE' , 'SE' , 'CP' , 'MA' stand for reconnaissance, social engineering, credential phishing, and malware respectively.</p>
+    <p>The larger the circle, the more occurrence of that attack type. </p>
+    <p>The intersection part represents the number of occurrence of more than 1 attack type in one email.</p>
+    <div id="observablehq-chart-66b52329"></div>
+    <p>Credit: <a href="https://observablehq.com/@drizzle98/attack-type-venn">Proportional Venn by drizzle98</a></p>
+
+    <script type="module">
+    import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+    import define from "https://api.observablehq.com/@drizzle98/attack-type-venn.js?v=3";
+    new Runtime().module(define, name => {
+      if (name === "chart") return new Inspector(document.querySelector("#observablehq-chart-66b52329"));
+    });
+    </script>
+  </div>
+
+
+
+
+
+{% endblock %}

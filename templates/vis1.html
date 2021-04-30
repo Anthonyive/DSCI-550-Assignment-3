@@ -1,0 +1,68 @@
+{% extends 'layout.html' %}
+
+{% block body %}
+
+  <div class="container" id="vis1">
+    <br>
+    <h1 style="text-align:center;">Clickable Word Cloud of Fradulent Emails Text</h1>
+    <style media="screen">
+    .click-only-text {
+          cursor: pointer;
+          -webkit-user-select: none;
+          -moz-user-select: none;
+          -ms-user-select: none;
+          user-select: none;
+        }
+      .click-only-text::selection {
+          background: none;
+        }
+
+      .word-default {
+          fill: SteelBlue;
+          font-weight: normal;
+        }
+      .word-hovered {
+          fill: SlateGrey;
+          font-weight: bold;
+        }
+      .word-selected {
+          fill: Thistle;
+          font-weight: bold;
+        }
+    </style>
+    <br>
+    <div class="title" style="text-align:center;">
+      <h2>4000 Emails Word Cloud</h2>
+    </div>
+    <div id="observablehq-wordCloud-86d6b60e"></div>
+    <p>This word cloud is made from the 150 most frequent words in the 4000+ fradulent emails.
+      All email text are in lower case and were split into 2 million tokens, with stop words and
+      punctuations removed. The size of the words are proportional to the frequency.
+     </p>
+
+    <div class="header" style="text-align:center;">
+      <h2>GTP-2 Generated Emails Word Cloud</h2>
+    </div>
+
+<div id="observablehq-WordCloud-86d6b60e"></div>
+<p>This word cloud is made from the 150 most frequent words in the 800 gtp-2 machine-generated emails.
+  All email text are in lower case with stop words and
+  punctuations removed. The size of the words are proportional to the frequency.
+ </p>
+<p>Credit: <a href="https://observablehq.com/@jessicajiang98/clickable-word-cloud">4000 Fradulent Emails Word Cloud by JessicaJiang</a></p>
+
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@jessicajiang98/clickable-word-cloud.js?v=3";
+new Runtime().module(define, name => {
+  if (name === "wordCloud") return new Inspector(document.querySelector("#observablehq-wordCloud-86d6b60e"));
+  if (name === "WordCloud") return new Inspector(document.querySelector("#observablehq-WordCloud-86d6b60e"));
+});
+</script>
+  </div>
+
+
+
+
+
+{% endblock %}
