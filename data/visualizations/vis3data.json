@@ -1,0 +1,2044 @@
+{"index": {"_index": "stock", "_id": 0}}
+{"date": "2002-10-30", "stock_open": "882.150024", "stock_close": "890.710022", "email count": 1}
+{"index": {"_index": "stock", "_id": 1}}
+{"date": "2002-10-31", "stock_open": "890.710022", "stock_close": "885.76001", "email count": 3}
+{"index": {"_index": "stock", "_id": 2}}
+{"date": "2002-11-01", "stock_open": "885.76001", "stock_close": "900.960022", "email count": 1}
+{"index": {"_index": "stock", "_id": 3}}
+{"date": "2002-11-04", "stock_open": "900.960022", "stock_close": "908.349976", "email count": 1}
+{"index": {"_index": "stock", "_id": 4}}
+{"date": "2002-11-05", "stock_open": "908.349976", "stock_close": "915.390015", "email count": 2}
+{"index": {"_index": "stock", "_id": 5}}
+{"date": "2002-11-07", "stock_open": "923.76001", "stock_close": "902.650024", "email count": 1}
+{"index": {"_index": "stock", "_id": 6}}
+{"date": "2002-11-08", "stock_open": "902.650024", "stock_close": "894.73999", "email count": 1}
+{"index": {"_index": "stock", "_id": 7}}
+{"date": "2002-11-11", "stock_open": "894.73999", "stock_close": "876.190002", "email count": 1}
+{"index": {"_index": "stock", "_id": 8}}
+{"date": "2002-11-12", "stock_open": "876.190002", "stock_close": "882.950012", "email count": 1}
+{"index": {"_index": "stock", "_id": 9}}
+{"date": "2002-11-14", "stock_open": "882.530029", "stock_close": "904.27002", "email count": 3}
+{"index": {"_index": "stock", "_id": 10}}
+{"date": "2002-11-18", "stock_open": "909.830017", "stock_close": "900.359985", "email count": 1}
+{"index": {"_index": "stock", "_id": 11}}
+{"date": "2002-11-20", "stock_open": "896.73999", "stock_close": "914.150024", "email count": 4}
+{"index": {"_index": "stock", "_id": 12}}
+{"date": "2002-11-22", "stock_open": "933.76001", "stock_close": "930.549988", "email count": 3}
+{"index": {"_index": "stock", "_id": 13}}
+{"date": "2002-11-25", "stock_open": "930.549988", "stock_close": "932.869995", "email count": 3}
+{"index": {"_index": "stock", "_id": 14}}
+{"date": "2002-11-26", "stock_open": "932.869995", "stock_close": "913.309998", "email count": 1}
+{"index": {"_index": "stock", "_id": 15}}
+{"date": "2002-11-27", "stock_open": "913.309998", "stock_close": "938.869995", "email count": 1}
+{"index": {"_index": "stock", "_id": 16}}
+{"date": "2002-12-03", "stock_open": "934.530029", "stock_close": "920.75", "email count": 1}
+{"index": {"_index": "stock", "_id": 17}}
+{"date": "2002-12-04", "stock_open": "920.75", "stock_close": "917.580017", "email count": 1}
+{"index": {"_index": "stock", "_id": 18}}
+{"date": "2002-12-05", "stock_open": "917.580017", "stock_close": "906.549988", "email count": 3}
+{"index": {"_index": "stock", "_id": 19}}
+{"date": "2002-12-06", "stock_open": "906.549988", "stock_close": "912.22998", "email count": 1}
+{"index": {"_index": "stock", "_id": 20}}
+{"date": "2002-12-09", "stock_open": "912.22998", "stock_close": "892.0", "email count": 2}
+{"index": {"_index": "stock", "_id": 21}}
+{"date": "2002-12-11", "stock_open": "904.450012", "stock_close": "904.960022", "email count": 2}
+{"index": {"_index": "stock", "_id": 22}}
+{"date": "2002-12-12", "stock_open": "904.960022", "stock_close": "901.580017", "email count": 1}
+{"index": {"_index": "stock", "_id": 23}}
+{"date": "2002-12-17", "stock_open": "910.400024", "stock_close": "902.98999", "email count": 1}
+{"index": {"_index": "stock", "_id": 24}}
+{"date": "2002-12-24", "stock_open": "897.380005", "stock_close": "892.469971", "email count": 1}
+{"index": {"_index": "stock", "_id": 25}}
+{"date": "2002-12-30", "stock_open": "875.400024", "stock_close": "879.390015", "email count": 1}
+{"index": {"_index": "stock", "_id": 26}}
+{"date": "2003-01-14", "stock_open": "926.26001", "stock_close": "931.659973", "email count": 3}
+{"index": {"_index": "stock", "_id": 27}}
+{"date": "2003-01-15", "stock_open": "931.659973", "stock_close": "918.219971", "email count": 2}
+{"index": {"_index": "stock", "_id": 28}}
+{"date": "2003-01-16", "stock_open": "918.219971", "stock_close": "914.599976", "email count": 6}
+{"index": {"_index": "stock", "_id": 29}}
+{"date": "2003-01-17", "stock_open": "914.599976", "stock_close": "901.780029", "email count": 5}
+{"index": {"_index": "stock", "_id": 30}}
+{"date": "2003-01-21", "stock_open": "901.780029", "stock_close": "887.619995", "email count": 2}
+{"index": {"_index": "stock", "_id": 31}}
+{"date": "2003-01-22", "stock_open": "887.619995", "stock_close": "878.359985", "email count": 1}
+{"index": {"_index": "stock", "_id": 32}}
+{"date": "2003-01-24", "stock_open": "887.340027", "stock_close": "861.400024", "email count": 1}
+{"index": {"_index": "stock", "_id": 33}}
+{"date": "2003-01-27", "stock_open": "861.400024", "stock_close": "847.47998", "email count": 3}
+{"index": {"_index": "stock", "_id": 34}}
+{"date": "2003-01-28", "stock_open": "847.47998", "stock_close": "858.539978", "email count": 3}
+{"index": {"_index": "stock", "_id": 35}}
+{"date": "2003-01-31", "stock_open": "844.609985", "stock_close": "855.700012", "email count": 2}
+{"index": {"_index": "stock", "_id": 36}}
+{"date": "2003-02-03", "stock_open": "855.700012", "stock_close": "860.320007", "email count": 2}
+{"index": {"_index": "stock", "_id": 37}}
+{"date": "2003-02-04", "stock_open": "860.320007", "stock_close": "848.200012", "email count": 1}
+{"index": {"_index": "stock", "_id": 38}}
+{"date": "2003-02-05", "stock_open": "848.200012", "stock_close": "843.590027", "email count": 2}
+{"index": {"_index": "stock", "_id": 39}}
+{"date": "2003-02-06", "stock_open": "843.590027", "stock_close": "838.150024", "email count": 1}
+{"index": {"_index": "stock", "_id": 40}}
+{"date": "2003-02-07", "stock_open": "838.150024", "stock_close": "829.690002", "email count": 3}
+{"index": {"_index": "stock", "_id": 41}}
+{"date": "2003-02-10", "stock_open": "829.690002", "stock_close": "835.969971", "email count": 1}
+{"index": {"_index": "stock", "_id": 42}}
+{"date": "2003-02-12", "stock_open": "829.200012", "stock_close": "818.679993", "email count": 3}
+{"index": {"_index": "stock", "_id": 43}}
+{"date": "2003-02-13", "stock_open": "818.679993", "stock_close": "817.369995", "email count": 1}
+{"index": {"_index": "stock", "_id": 44}}
+{"date": "2003-02-14", "stock_open": "817.369995", "stock_close": "834.890015", "email count": 1}
+{"index": {"_index": "stock", "_id": 45}}
+{"date": "2003-02-18", "stock_open": "834.890015", "stock_close": "851.169983", "email count": 2}
+{"index": {"_index": "stock", "_id": 46}}
+{"date": "2003-02-20", "stock_open": "845.130005", "stock_close": "837.099976", "email count": 6}
+{"index": {"_index": "stock", "_id": 47}}
+{"date": "2003-02-21", "stock_open": "837.099976", "stock_close": "848.169983", "email count": 3}
+{"index": {"_index": "stock", "_id": 48}}
+{"date": "2003-02-24", "stock_open": "848.169983", "stock_close": "832.580017", "email count": 3}
+{"index": {"_index": "stock", "_id": 49}}
+{"date": "2003-02-27", "stock_open": "827.549988", "stock_close": "837.280029", "email count": 4}
+{"index": {"_index": "stock", "_id": 50}}
+{"date": "2003-02-28", "stock_open": "837.280029", "stock_close": "841.150024", "email count": 1}
+{"index": {"_index": "stock", "_id": 51}}
+{"date": "2003-03-03", "stock_open": "841.150024", "stock_close": "834.809998", "email count": 6}
+{"index": {"_index": "stock", "_id": 52}}
+{"date": "2003-03-04", "stock_open": "834.809998", "stock_close": "821.98999", "email count": 1}
+{"index": {"_index": "stock", "_id": 53}}
+{"date": "2003-03-05", "stock_open": "821.98999", "stock_close": "829.849976", "email count": 1}
+{"index": {"_index": "stock", "_id": 54}}
+{"date": "2003-03-06", "stock_open": "829.849976", "stock_close": "822.099976", "email count": 1}
+{"index": {"_index": "stock", "_id": 55}}
+{"date": "2003-03-07", "stock_open": "822.099976", "stock_close": "828.890015", "email count": 1}
+{"index": {"_index": "stock", "_id": 56}}
+{"date": "2003-03-10", "stock_open": "828.890015", "stock_close": "807.47998", "email count": 1}
+{"index": {"_index": "stock", "_id": 57}}
+{"date": "2003-03-11", "stock_open": "807.47998", "stock_close": "800.72998", "email count": 1}
+{"index": {"_index": "stock", "_id": 58}}
+{"date": "2003-03-12", "stock_open": "800.72998", "stock_close": "804.190002", "email count": 5}
+{"index": {"_index": "stock", "_id": 59}}
+{"date": "2003-03-13", "stock_open": "804.190002", "stock_close": "831.900024", "email count": 1}
+{"index": {"_index": "stock", "_id": 60}}
+{"date": "2003-03-21", "stock_open": "875.840027", "stock_close": "895.789978", "email count": 2}
+{"index": {"_index": "stock", "_id": 61}}
+{"date": "2003-03-25", "stock_open": "864.22998", "stock_close": "874.73999", "email count": 2}
+{"index": {"_index": "stock", "_id": 62}}
+{"date": "2003-03-27", "stock_open": "869.950012", "stock_close": "868.52002", "email count": 2}
+{"index": {"_index": "stock", "_id": 63}}
+{"date": "2003-03-31", "stock_open": "863.5", "stock_close": "848.179993", "email count": 1}
+{"index": {"_index": "stock", "_id": 64}}
+{"date": "2003-04-02", "stock_open": "858.47998", "stock_close": "880.900024", "email count": 1}
+{"index": {"_index": "stock", "_id": 65}}
+{"date": "2003-04-03", "stock_open": "880.900024", "stock_close": "876.450012", "email count": 3}
+{"index": {"_index": "stock", "_id": 66}}
+{"date": "2003-04-04", "stock_open": "876.450012", "stock_close": "878.849976", "email count": 1}
+{"index": {"_index": "stock", "_id": 67}}
+{"date": "2003-04-07", "stock_open": "878.849976", "stock_close": "879.929993", "email count": 1}
+{"index": {"_index": "stock", "_id": 68}}
+{"date": "2003-04-09", "stock_open": "878.289978", "stock_close": "865.98999", "email count": 1}
+{"index": {"_index": "stock", "_id": 69}}
+{"date": "2003-04-10", "stock_open": "865.98999", "stock_close": "871.580017", "email count": 1}
+{"index": {"_index": "stock", "_id": 70}}
+{"date": "2003-04-15", "stock_open": "885.22998", "stock_close": "890.809998", "email count": 2}
+{"index": {"_index": "stock", "_id": 71}}
+{"date": "2003-04-16", "stock_open": "890.809998", "stock_close": "879.909973", "email count": 1}
+{"index": {"_index": "stock", "_id": 72}}
+{"date": "2003-04-17", "stock_open": "879.909973", "stock_close": "893.580017", "email count": 3}
+{"index": {"_index": "stock", "_id": 73}}
+{"date": "2003-04-23", "stock_open": "911.369995", "stock_close": "919.02002", "email count": 2}
+{"index": {"_index": "stock", "_id": 74}}
+{"date": "2003-04-24", "stock_open": "919.02002", "stock_close": "911.429993", "email count": 1}
+{"index": {"_index": "stock", "_id": 75}}
+{"date": "2003-04-25", "stock_open": "911.429993", "stock_close": "898.809998", "email count": 1}
+{"index": {"_index": "stock", "_id": 76}}
+{"date": "2003-04-28", "stock_open": "898.809998", "stock_close": "914.840027", "email count": 2}
+{"index": {"_index": "stock", "_id": 77}}
+{"date": "2003-04-29", "stock_open": "914.840027", "stock_close": "917.840027", "email count": 1}
+{"index": {"_index": "stock", "_id": 78}}
+{"date": "2003-04-30", "stock_open": "917.840027", "stock_close": "916.919983", "email count": 3}
+{"index": {"_index": "stock", "_id": 79}}
+{"date": "2003-05-01", "stock_open": "916.919983", "stock_close": "916.299988", "email count": 3}
+{"index": {"_index": "stock", "_id": 80}}
+{"date": "2003-05-02", "stock_open": "916.299988", "stock_close": "930.080017", "email count": 2}
+{"index": {"_index": "stock", "_id": 81}}
+{"date": "2003-05-05", "stock_open": "930.080017", "stock_close": "926.549988", "email count": 2}
+{"index": {"_index": "stock", "_id": 82}}
+{"date": "2003-05-06", "stock_open": "926.549988", "stock_close": "934.390015", "email count": 2}
+{"index": {"_index": "stock", "_id": 83}}
+{"date": "2003-05-08", "stock_open": "929.619995", "stock_close": "920.27002", "email count": 1}
+{"index": {"_index": "stock", "_id": 84}}
+{"date": "2003-05-09", "stock_open": "920.27002", "stock_close": "933.409973", "email count": 3}
+{"index": {"_index": "stock", "_id": 85}}
+{"date": "2003-05-12", "stock_open": "933.409973", "stock_close": "945.109985", "email count": 1}
+{"index": {"_index": "stock", "_id": 86}}
+{"date": "2003-05-13", "stock_open": "945.109985", "stock_close": "942.299988", "email count": 1}
+{"index": {"_index": "stock", "_id": 87}}
+{"date": "2003-05-14", "stock_open": "942.299988", "stock_close": "939.280029", "email count": 4}
+{"index": {"_index": "stock", "_id": 88}}
+{"date": "2003-05-15", "stock_open": "939.280029", "stock_close": "946.669983", "email count": 2}
+{"index": {"_index": "stock", "_id": 89}}
+{"date": "2003-05-16", "stock_open": "946.669983", "stock_close": "944.299988", "email count": 2}
+{"index": {"_index": "stock", "_id": 90}}
+{"date": "2003-05-19", "stock_open": "944.299988", "stock_close": "920.77002", "email count": 4}
+{"index": {"_index": "stock", "_id": 91}}
+{"date": "2003-05-21", "stock_open": "919.72998", "stock_close": "923.419983", "email count": 1}
+{"index": {"_index": "stock", "_id": 92}}
+{"date": "2003-05-22", "stock_open": "923.419983", "stock_close": "931.869995", "email count": 4}
+{"index": {"_index": "stock", "_id": 93}}
+{"date": "2003-05-23", "stock_open": "931.869995", "stock_close": "933.219971", "email count": 4}
+{"index": {"_index": "stock", "_id": 94}}
+{"date": "2003-05-27", "stock_open": "933.219971", "stock_close": "951.47998", "email count": 5}
+{"index": {"_index": "stock", "_id": 95}}
+{"date": "2003-05-30", "stock_open": "949.640015", "stock_close": "963.590027", "email count": 1}
+{"index": {"_index": "stock", "_id": 96}}
+{"date": "2003-06-02", "stock_open": "963.590027", "stock_close": "967.0", "email count": 5}
+{"index": {"_index": "stock", "_id": 97}}
+{"date": "2003-06-03", "stock_open": "967.0", "stock_close": "971.559998", "email count": 3}
+{"index": {"_index": "stock", "_id": 98}}
+{"date": "2003-06-04", "stock_open": "971.559998", "stock_close": "986.23999", "email count": 4}
+{"index": {"_index": "stock", "_id": 99}}
+{"date": "2003-06-06", "stock_open": "990.140015", "stock_close": "987.76001", "email count": 2}
+{"index": {"_index": "stock", "_id": 100}}
+{"date": "2003-06-09", "stock_open": "987.76001", "stock_close": "975.929993", "email count": 2}
+{"index": {"_index": "stock", "_id": 101}}
+{"date": "2003-06-10", "stock_open": "975.929993", "stock_close": "984.840027", "email count": 3}
+{"index": {"_index": "stock", "_id": 102}}
+{"date": "2003-06-11", "stock_open": "984.840027", "stock_close": "997.47998", "email count": 2}
+{"index": {"_index": "stock", "_id": 103}}
+{"date": "2003-06-12", "stock_open": "997.47998", "stock_close": "998.51001", "email count": 1}
+{"index": {"_index": "stock", "_id": 104}}
+{"date": "2003-06-13", "stock_open": "998.51001", "stock_close": "988.609985", "email count": 3}
+{"index": {"_index": "stock", "_id": 105}}
+{"date": "2003-06-16", "stock_open": "988.609985", "stock_close": "1010.73999", "email count": 6}
+{"index": {"_index": "stock", "_id": 106}}
+{"date": "2003-06-20", "stock_open": "994.700012", "stock_close": "995.690002", "email count": 1}
+{"index": {"_index": "stock", "_id": 107}}
+{"date": "2003-06-23", "stock_open": "995.690002", "stock_close": "981.640015", "email count": 3}
+{"index": {"_index": "stock", "_id": 108}}
+{"date": "2003-06-24", "stock_open": "981.640015", "stock_close": "983.450012", "email count": 2}
+{"index": {"_index": "stock", "_id": 109}}
+{"date": "2003-06-27", "stock_open": "985.820007", "stock_close": "976.219971", "email count": 1}
+{"index": {"_index": "stock", "_id": 110}}
+{"date": "2003-06-30", "stock_open": "976.219971", "stock_close": "974.5", "email count": 3}
+{"index": {"_index": "stock", "_id": 111}}
+{"date": "2003-07-01", "stock_open": "974.5", "stock_close": "982.320007", "email count": 1}
+{"index": {"_index": "stock", "_id": 112}}
+{"date": "2003-07-02", "stock_open": "982.320007", "stock_close": "993.75", "email count": 3}
+{"index": {"_index": "stock", "_id": 113}}
+{"date": "2003-07-08", "stock_open": "1004.419983", "stock_close": "1007.840027", "email count": 2}
+{"index": {"_index": "stock", "_id": 114}}
+{"date": "2003-07-09", "stock_open": "1007.840027", "stock_close": "1002.210022", "email count": 1}
+{"index": {"_index": "stock", "_id": 115}}
+{"date": "2003-07-10", "stock_open": "1002.210022", "stock_close": "988.700012", "email count": 1}
+{"index": {"_index": "stock", "_id": 116}}
+{"date": "2003-07-14", "stock_open": "998.140015", "stock_close": "1003.859985", "email count": 3}
+{"index": {"_index": "stock", "_id": 117}}
+{"date": "2003-07-15", "stock_open": "1003.859985", "stock_close": "1000.419983", "email count": 1}
+{"index": {"_index": "stock", "_id": 118}}
+{"date": "2003-07-16", "stock_open": "1000.419983", "stock_close": "994.090027", "email count": 3}
+{"index": {"_index": "stock", "_id": 119}}
+{"date": "2003-07-18", "stock_open": "981.72998", "stock_close": "993.320007", "email count": 1}
+{"index": {"_index": "stock", "_id": 120}}
+{"date": "2003-07-21", "stock_open": "993.320007", "stock_close": "978.799988", "email count": 4}
+{"index": {"_index": "stock", "_id": 121}}
+{"date": "2003-07-22", "stock_open": "978.799988", "stock_close": "988.109985", "email count": 1}
+{"index": {"_index": "stock", "_id": 122}}
+{"date": "2003-07-23", "stock_open": "988.109985", "stock_close": "988.609985", "email count": 3}
+{"index": {"_index": "stock", "_id": 123}}
+{"date": "2003-07-24", "stock_open": "988.609985", "stock_close": "981.599976", "email count": 8}
+{"index": {"_index": "stock", "_id": 124}}
+{"date": "2003-07-25", "stock_open": "981.599976", "stock_close": "998.679993", "email count": 1}
+{"index": {"_index": "stock", "_id": 125}}
+{"date": "2003-07-28", "stock_open": "998.679993", "stock_close": "996.52002", "email count": 1}
+{"index": {"_index": "stock", "_id": 126}}
+{"date": "2003-07-29", "stock_open": "996.52002", "stock_close": "989.280029", "email count": 5}
+{"index": {"_index": "stock", "_id": 127}}
+{"date": "2003-07-31", "stock_open": "987.48999", "stock_close": "990.309998", "email count": 1}
+{"index": {"_index": "stock", "_id": 128}}
+{"date": "2003-08-01", "stock_open": "990.309998", "stock_close": "980.150024", "email count": 2}
+{"index": {"_index": "stock", "_id": 129}}
+{"date": "2003-08-04", "stock_open": "980.150024", "stock_close": "982.820007", "email count": 4}
+{"index": {"_index": "stock", "_id": 130}}
+{"date": "2003-08-05", "stock_open": "982.820007", "stock_close": "965.460022", "email count": 3}
+{"index": {"_index": "stock", "_id": 131}}
+{"date": "2003-08-07", "stock_open": "967.080017", "stock_close": "974.119995", "email count": 2}
+{"index": {"_index": "stock", "_id": 132}}
+{"date": "2003-08-08", "stock_open": "974.119995", "stock_close": "977.590027", "email count": 1}
+{"index": {"_index": "stock", "_id": 133}}
+{"date": "2003-08-11", "stock_open": "977.590027", "stock_close": "980.590027", "email count": 3}
+{"index": {"_index": "stock", "_id": 134}}
+{"date": "2003-08-12", "stock_open": "980.590027", "stock_close": "990.349976", "email count": 4}
+{"index": {"_index": "stock", "_id": 135}}
+{"date": "2003-08-13", "stock_open": "990.349976", "stock_close": "984.030029", "email count": 3}
+{"index": {"_index": "stock", "_id": 136}}
+{"date": "2003-08-14", "stock_open": "984.030029", "stock_close": "990.51001", "email count": 1}
+{"index": {"_index": "stock", "_id": 137}}
+{"date": "2003-08-20", "stock_open": "1002.349976", "stock_close": "1000.299988", "email count": 1}
+{"index": {"_index": "stock", "_id": 138}}
+{"date": "2003-08-21", "stock_open": "1000.299988", "stock_close": "1003.27002", "email count": 1}
+{"index": {"_index": "stock", "_id": 139}}
+{"date": "2003-08-22", "stock_open": "1003.27002", "stock_close": "993.059998", "email count": 4}
+{"index": {"_index": "stock", "_id": 140}}
+{"date": "2003-08-25", "stock_open": "993.059998", "stock_close": "993.710022", "email count": 3}
+{"index": {"_index": "stock", "_id": 141}}
+{"date": "2003-08-26", "stock_open": "993.710022", "stock_close": "996.72998", "email count": 1}
+{"index": {"_index": "stock", "_id": 142}}
+{"date": "2003-08-27", "stock_open": "996.72998", "stock_close": "996.789978", "email count": 5}
+{"index": {"_index": "stock", "_id": 143}}
+{"date": "2003-08-29", "stock_open": "1002.840027", "stock_close": "1008.01001", "email count": 1}
+{"index": {"_index": "stock", "_id": 144}}
+{"date": "2003-09-02", "stock_open": "1008.01001", "stock_close": "1021.98999", "email count": 2}
+{"index": {"_index": "stock", "_id": 145}}
+{"date": "2003-09-03", "stock_open": "1021.98999", "stock_close": "1026.27002", "email count": 2}
+{"index": {"_index": "stock", "_id": 146}}
+{"date": "2003-09-04", "stock_open": "1026.27002", "stock_close": "1027.969971", "email count": 7}
+{"index": {"_index": "stock", "_id": 147}}
+{"date": "2003-09-05", "stock_open": "1027.969971", "stock_close": "1021.390015", "email count": 1}
+{"index": {"_index": "stock", "_id": 148}}
+{"date": "2003-09-08", "stock_open": "1021.390015", "stock_close": "1031.640015", "email count": 1}
+{"index": {"_index": "stock", "_id": 149}}
+{"date": "2003-09-09", "stock_open": "1031.640015", "stock_close": "1023.169983", "email count": 1}
+{"index": {"_index": "stock", "_id": 150}}
+{"date": "2003-09-10", "stock_open": "1023.169983", "stock_close": "1010.919983", "email count": 3}
+{"index": {"_index": "stock", "_id": 151}}
+{"date": "2003-09-12", "stock_open": "1016.419983", "stock_close": "1018.630005", "email count": 2}
+{"index": {"_index": "stock", "_id": 152}}
+{"date": "2003-09-15", "stock_open": "1018.630005", "stock_close": "1014.809998", "email count": 1}
+{"index": {"_index": "stock", "_id": 153}}
+{"date": "2003-09-17", "stock_open": "1029.319946", "stock_close": "1025.969971", "email count": 1}
+{"index": {"_index": "stock", "_id": 154}}
+{"date": "2003-09-18", "stock_open": "1025.969971", "stock_close": "1039.579956", "email count": 1}
+{"index": {"_index": "stock", "_id": 155}}
+{"date": "2003-09-19", "stock_open": "1039.579956", "stock_close": "1036.300049", "email count": 2}
+{"index": {"_index": "stock", "_id": 156}}
+{"date": "2003-09-22", "stock_open": "1036.300049", "stock_close": "1022.820007", "email count": 2}
+{"index": {"_index": "stock", "_id": 157}}
+{"date": "2003-09-23", "stock_open": "1022.820007", "stock_close": "1029.030029", "email count": 1}
+{"index": {"_index": "stock", "_id": 158}}
+{"date": "2003-09-24", "stock_open": "1029.030029", "stock_close": "1009.380005", "email count": 1}
+{"index": {"_index": "stock", "_id": 159}}
+{"date": "2003-09-25", "stock_open": "1009.380005", "stock_close": "1003.27002", "email count": 3}
+{"index": {"_index": "stock", "_id": 160}}
+{"date": "2003-09-26", "stock_open": "1003.27002", "stock_close": "996.849976", "email count": 2}
+{"index": {"_index": "stock", "_id": 161}}
+{"date": "2003-09-29", "stock_open": "996.849976", "stock_close": "1006.580017", "email count": 2}
+{"index": {"_index": "stock", "_id": 162}}
+{"date": "2003-10-01", "stock_open": "995.969971", "stock_close": "1018.219971", "email count": 2}
+{"index": {"_index": "stock", "_id": 163}}
+{"date": "2003-10-02", "stock_open": "1018.219971", "stock_close": "1020.23999", "email count": 2}
+{"index": {"_index": "stock", "_id": 164}}
+{"date": "2003-10-03", "stock_open": "1020.23999", "stock_close": "1029.849976", "email count": 1}
+{"index": {"_index": "stock", "_id": 165}}
+{"date": "2003-10-06", "stock_open": "1029.849976", "stock_close": "1034.349976", "email count": 2}
+{"index": {"_index": "stock", "_id": 166}}
+{"date": "2003-10-07", "stock_open": "1034.349976", "stock_close": "1039.25", "email count": 5}
+{"index": {"_index": "stock", "_id": 167}}
+{"date": "2003-10-08", "stock_open": "1039.25", "stock_close": "1033.780029", "email count": 1}
+{"index": {"_index": "stock", "_id": 168}}
+{"date": "2003-10-09", "stock_open": "1033.780029", "stock_close": "1038.72998", "email count": 1}
+{"index": {"_index": "stock", "_id": 169}}
+{"date": "2003-10-10", "stock_open": "1038.72998", "stock_close": "1038.060059", "email count": 4}
+{"index": {"_index": "stock", "_id": 170}}
+{"date": "2003-10-13", "stock_open": "1038.060059", "stock_close": "1045.349976", "email count": 5}
+{"index": {"_index": "stock", "_id": 171}}
+{"date": "2003-10-14", "stock_open": "1045.349976", "stock_close": "1049.47998", "email count": 1}
+{"index": {"_index": "stock", "_id": 172}}
+{"date": "2003-10-15", "stock_open": "1049.47998", "stock_close": "1046.76001", "email count": 1}
+{"index": {"_index": "stock", "_id": 173}}
+{"date": "2003-10-16", "stock_open": "1046.76001", "stock_close": "1050.069946", "email count": 4}
+{"index": {"_index": "stock", "_id": 174}}
+{"date": "2003-10-17", "stock_open": "1050.069946", "stock_close": "1039.319946", "email count": 4}
+{"index": {"_index": "stock", "_id": 175}}
+{"date": "2003-10-20", "stock_open": "1039.319946", "stock_close": "1044.680054", "email count": 10}
+{"index": {"_index": "stock", "_id": 176}}
+{"date": "2003-10-21", "stock_open": "1044.680054", "stock_close": "1046.030029", "email count": 4}
+{"index": {"_index": "stock", "_id": 177}}
+{"date": "2003-10-22", "stock_open": "1046.030029", "stock_close": "1030.359985", "email count": 3}
+{"index": {"_index": "stock", "_id": 178}}
+{"date": "2003-10-23", "stock_open": "1030.359985", "stock_close": "1033.77002", "email count": 4}
+{"index": {"_index": "stock", "_id": 179}}
+{"date": "2003-10-24", "stock_open": "1033.77002", "stock_close": "1028.910034", "email count": 6}
+{"index": {"_index": "stock", "_id": 180}}
+{"date": "2003-10-27", "stock_open": "1028.910034", "stock_close": "1031.130005", "email count": 3}
+{"index": {"_index": "stock", "_id": 181}}
+{"date": "2003-10-28", "stock_open": "1031.130005", "stock_close": "1046.790039", "email count": 4}
+{"index": {"_index": "stock", "_id": 182}}
+{"date": "2003-10-30", "stock_open": "1048.109985", "stock_close": "1046.939941", "email count": 6}
+{"index": {"_index": "stock", "_id": 183}}
+{"date": "2003-11-03", "stock_open": "1050.709961", "stock_close": "1059.02002", "email count": 2}
+{"index": {"_index": "stock", "_id": 184}}
+{"date": "2003-11-04", "stock_open": "1059.02002", "stock_close": "1053.25", "email count": 2}
+{"index": {"_index": "stock", "_id": 185}}
+{"date": "2003-11-05", "stock_open": "1053.25", "stock_close": "1051.810059", "email count": 5}
+{"index": {"_index": "stock", "_id": 186}}
+{"date": "2003-11-06", "stock_open": "1051.810059", "stock_close": "1058.050049", "email count": 4}
+{"index": {"_index": "stock", "_id": 187}}
+{"date": "2003-11-07", "stock_open": "1058.050049", "stock_close": "1053.209961", "email count": 1}
+{"index": {"_index": "stock", "_id": 188}}
+{"date": "2003-11-10", "stock_open": "1053.209961", "stock_close": "1047.109985", "email count": 1}
+{"index": {"_index": "stock", "_id": 189}}
+{"date": "2003-11-12", "stock_open": "1046.569946", "stock_close": "1058.530029", "email count": 1}
+{"index": {"_index": "stock", "_id": 190}}
+{"date": "2003-11-13", "stock_open": "1058.560059", "stock_close": "1058.410034", "email count": 2}
+{"index": {"_index": "stock", "_id": 191}}
+{"date": "2003-11-14", "stock_open": "1058.410034", "stock_close": "1050.349976", "email count": 3}
+{"index": {"_index": "stock", "_id": 192}}
+{"date": "2003-11-17", "stock_open": "1050.349976", "stock_close": "1043.630005", "email count": 4}
+{"index": {"_index": "stock", "_id": 193}}
+{"date": "2003-11-19", "stock_open": "1034.150024", "stock_close": "1042.439941", "email count": 2}
+{"index": {"_index": "stock", "_id": 194}}
+{"date": "2003-11-20", "stock_open": "1042.439941", "stock_close": "1033.650024", "email count": 3}
+{"index": {"_index": "stock", "_id": 195}}
+{"date": "2003-11-21", "stock_open": "1033.650024", "stock_close": "1035.280029", "email count": 2}
+{"index": {"_index": "stock", "_id": 196}}
+{"date": "2003-11-24", "stock_open": "1035.280029", "stock_close": "1052.079956", "email count": 6}
+{"index": {"_index": "stock", "_id": 197}}
+{"date": "2003-11-25", "stock_open": "1052.079956", "stock_close": "1053.890015", "email count": 5}
+{"index": {"_index": "stock", "_id": 198}}
+{"date": "2003-11-26", "stock_open": "1053.890015", "stock_close": "1058.449951", "email count": 3}
+{"index": {"_index": "stock", "_id": 199}}
+{"date": "2003-11-28", "stock_open": "1058.449951", "stock_close": "1058.199951", "email count": 1}
+{"index": {"_index": "stock", "_id": 200}}
+{"date": "2003-12-01", "stock_open": "1058.199951", "stock_close": "1070.119995", "email count": 3}
+{"index": {"_index": "stock", "_id": 201}}
+{"date": "2003-12-02", "stock_open": "1070.119995", "stock_close": "1066.619995", "email count": 1}
+{"index": {"_index": "stock", "_id": 202}}
+{"date": "2003-12-03", "stock_open": "1066.619995", "stock_close": "1064.72998", "email count": 2}
+{"index": {"_index": "stock", "_id": 203}}
+{"date": "2003-12-04", "stock_open": "1064.72998", "stock_close": "1069.719971", "email count": 1}
+{"index": {"_index": "stock", "_id": 204}}
+{"date": "2003-12-05", "stock_open": "1069.719971", "stock_close": "1061.5", "email count": 1}
+{"index": {"_index": "stock", "_id": 205}}
+{"date": "2003-12-09", "stock_open": "1069.300049", "stock_close": "1060.180054", "email count": 1}
+{"index": {"_index": "stock", "_id": 206}}
+{"date": "2003-12-10", "stock_open": "1060.180054", "stock_close": "1059.050049", "email count": 2}
+{"index": {"_index": "stock", "_id": 207}}
+{"date": "2003-12-15", "stock_open": "1074.140015", "stock_close": "1068.040039", "email count": 4}
+{"index": {"_index": "stock", "_id": 208}}
+{"date": "2003-12-16", "stock_open": "1068.040039", "stock_close": "1075.130005", "email count": 2}
+{"index": {"_index": "stock", "_id": 209}}
+{"date": "2003-12-17", "stock_open": "1075.130005", "stock_close": "1076.47998", "email count": 2}
+{"index": {"_index": "stock", "_id": 210}}
+{"date": "2003-12-22", "stock_open": "1088.660034", "stock_close": "1092.939941", "email count": 2}
+{"index": {"_index": "stock", "_id": 211}}
+{"date": "2003-12-23", "stock_open": "1092.939941", "stock_close": "1096.02002", "email count": 2}
+{"index": {"_index": "stock", "_id": 212}}
+{"date": "2003-12-24", "stock_open": "1096.02002", "stock_close": "1094.040039", "email count": 1}
+{"index": {"_index": "stock", "_id": 213}}
+{"date": "2003-12-29", "stock_open": "1095.890015", "stock_close": "1109.47998", "email count": 2}
+{"index": {"_index": "stock", "_id": 214}}
+{"date": "2004-01-05", "stock_open": "1108.47998", "stock_close": "1122.219971", "email count": 6}
+{"index": {"_index": "stock", "_id": 215}}
+{"date": "2004-01-07", "stock_open": "1123.670044", "stock_close": "1126.329956", "email count": 5}
+{"index": {"_index": "stock", "_id": 216}}
+{"date": "2004-01-08", "stock_open": "1126.329956", "stock_close": "1131.920044", "email count": 3}
+{"index": {"_index": "stock", "_id": 217}}
+{"date": "2004-01-09", "stock_open": "1131.920044", "stock_close": "1121.859985", "email count": 2}
+{"index": {"_index": "stock", "_id": 218}}
+{"date": "2004-01-13", "stock_open": "1127.22998", "stock_close": "1121.219971", "email count": 4}
+{"index": {"_index": "stock", "_id": 219}}
+{"date": "2004-01-14", "stock_open": "1121.219971", "stock_close": "1130.52002", "email count": 3}
+{"index": {"_index": "stock", "_id": 220}}
+{"date": "2004-01-16", "stock_open": "1132.050049", "stock_close": "1139.829956", "email count": 3}
+{"index": {"_index": "stock", "_id": 221}}
+{"date": "2004-01-20", "stock_open": "1139.829956", "stock_close": "1138.77002", "email count": 7}
+{"index": {"_index": "stock", "_id": 222}}
+{"date": "2004-01-21", "stock_open": "1138.77002", "stock_close": "1147.619995", "email count": 3}
+{"index": {"_index": "stock", "_id": 223}}
+{"date": "2004-01-22", "stock_open": "1147.619995", "stock_close": "1143.939941", "email count": 3}
+{"index": {"_index": "stock", "_id": 224}}
+{"date": "2004-01-23", "stock_open": "1143.939941", "stock_close": "1141.550049", "email count": 1}
+{"index": {"_index": "stock", "_id": 225}}
+{"date": "2004-01-26", "stock_open": "1141.550049", "stock_close": "1155.369995", "email count": 2}
+{"index": {"_index": "stock", "_id": 226}}
+{"date": "2004-01-27", "stock_open": "1155.369995", "stock_close": "1144.050049", "email count": 1}
+{"index": {"_index": "stock", "_id": 227}}
+{"date": "2004-01-28", "stock_open": "1144.050049", "stock_close": "1128.47998", "email count": 5}
+{"index": {"_index": "stock", "_id": 228}}
+{"date": "2004-01-29", "stock_open": "1128.47998", "stock_close": "1134.109985", "email count": 1}
+{"index": {"_index": "stock", "_id": 229}}
+{"date": "2004-01-30", "stock_open": "1134.109985", "stock_close": "1131.130005", "email count": 2}
+{"index": {"_index": "stock", "_id": 230}}
+{"date": "2004-02-02", "stock_open": "1131.130005", "stock_close": "1135.26001", "email count": 2}
+{"index": {"_index": "stock", "_id": 231}}
+{"date": "2004-02-04", "stock_open": "1136.030029", "stock_close": "1126.52002", "email count": 1}
+{"index": {"_index": "stock", "_id": 232}}
+{"date": "2004-02-05", "stock_open": "1126.52002", "stock_close": "1128.589966", "email count": 3}
+{"index": {"_index": "stock", "_id": 233}}
+{"date": "2004-02-06", "stock_open": "1128.589966", "stock_close": "1142.76001", "email count": 2}
+{"index": {"_index": "stock", "_id": 234}}
+{"date": "2004-02-10", "stock_open": "1139.810059", "stock_close": "1145.540039", "email count": 3}
+{"index": {"_index": "stock", "_id": 235}}
+{"date": "2004-02-12", "stock_open": "1157.76001", "stock_close": "1152.109985", "email count": 5}
+{"index": {"_index": "stock", "_id": 236}}
+{"date": "2004-02-13", "stock_open": "1152.109985", "stock_close": "1145.810059", "email count": 3}
+{"index": {"_index": "stock", "_id": 237}}
+{"date": "2004-02-18", "stock_open": "1156.98999", "stock_close": "1151.819946", "email count": 2}
+{"index": {"_index": "stock", "_id": 238}}
+{"date": "2004-02-19", "stock_open": "1151.819946", "stock_close": "1147.060059", "email count": 4}
+{"index": {"_index": "stock", "_id": 239}}
+{"date": "2004-02-20", "stock_open": "1147.060059", "stock_close": "1144.109985", "email count": 1}
+{"index": {"_index": "stock", "_id": 240}}
+{"date": "2004-02-23", "stock_open": "1144.109985", "stock_close": "1140.98999", "email count": 3}
+{"index": {"_index": "stock", "_id": 241}}
+{"date": "2004-02-24", "stock_open": "1140.98999", "stock_close": "1139.089966", "email count": 4}
+{"index": {"_index": "stock", "_id": 242}}
+{"date": "2004-02-25", "stock_open": "1139.089966", "stock_close": "1143.670044", "email count": 1}
+{"index": {"_index": "stock", "_id": 243}}
+{"date": "2004-02-26", "stock_open": "1143.670044", "stock_close": "1144.910034", "email count": 2}
+{"index": {"_index": "stock", "_id": 244}}
+{"date": "2004-03-01", "stock_open": "1144.939941", "stock_close": "1155.969971", "email count": 1}
+{"index": {"_index": "stock", "_id": 245}}
+{"date": "2004-03-02", "stock_open": "1155.969971", "stock_close": "1149.099976", "email count": 2}
+{"index": {"_index": "stock", "_id": 246}}
+{"date": "2004-03-03", "stock_open": "1149.099976", "stock_close": "1151.030029", "email count": 1}
+{"index": {"_index": "stock", "_id": 247}}
+{"date": "2004-03-05", "stock_open": "1154.869995", "stock_close": "1156.859985", "email count": 2}
+{"index": {"_index": "stock", "_id": 248}}
+{"date": "2004-03-08", "stock_open": "1156.859985", "stock_close": "1147.199951", "email count": 1}
+{"index": {"_index": "stock", "_id": 249}}
+{"date": "2004-03-09", "stock_open": "1147.199951", "stock_close": "1140.579956", "email count": 2}
+{"index": {"_index": "stock", "_id": 250}}
+{"date": "2004-03-11", "stock_open": "1123.890015", "stock_close": "1106.780029", "email count": 1}
+{"index": {"_index": "stock", "_id": 251}}
+{"date": "2004-03-12", "stock_open": "1106.780029", "stock_close": "1120.569946", "email count": 2}
+{"index": {"_index": "stock", "_id": 252}}
+{"date": "2004-03-15", "stock_open": "1120.569946", "stock_close": "1104.48999", "email count": 4}
+{"index": {"_index": "stock", "_id": 253}}
+{"date": "2004-03-16", "stock_open": "1104.48999", "stock_close": "1110.699951", "email count": 8}
+{"index": {"_index": "stock", "_id": 254}}
+{"date": "2004-03-17", "stock_open": "1110.699951", "stock_close": "1123.75", "email count": 4}
+{"index": {"_index": "stock", "_id": 255}}
+{"date": "2004-03-18", "stock_open": "1123.75", "stock_close": "1122.319946", "email count": 3}
+{"index": {"_index": "stock", "_id": 256}}
+{"date": "2004-03-19", "stock_open": "1122.319946", "stock_close": "1109.780029", "email count": 1}
+{"index": {"_index": "stock", "_id": 257}}
+{"date": "2004-03-22", "stock_open": "1109.780029", "stock_close": "1095.400024", "email count": 2}
+{"index": {"_index": "stock", "_id": 258}}
+{"date": "2004-03-23", "stock_open": "1095.400024", "stock_close": "1093.949951", "email count": 2}
+{"index": {"_index": "stock", "_id": 259}}
+{"date": "2004-03-24", "stock_open": "1093.949951", "stock_close": "1091.329956", "email count": 1}
+{"index": {"_index": "stock", "_id": 260}}
+{"date": "2004-03-26", "stock_open": "1109.189941", "stock_close": "1108.060059", "email count": 3}
+{"index": {"_index": "stock", "_id": 261}}
+{"date": "2004-03-29", "stock_open": "1108.060059", "stock_close": "1122.469971", "email count": 1}
+{"index": {"_index": "stock", "_id": 262}}
+{"date": "2004-03-30", "stock_open": "1122.469971", "stock_close": "1127.0", "email count": 2}
+{"index": {"_index": "stock", "_id": 263}}
+{"date": "2004-03-31", "stock_open": "1127.0", "stock_close": "1126.209961", "email count": 3}
+{"index": {"_index": "stock", "_id": 264}}
+{"date": "2004-04-01", "stock_open": "1126.209961", "stock_close": "1132.170044", "email count": 2}
+{"index": {"_index": "stock", "_id": 265}}
+{"date": "2004-04-05", "stock_open": "1141.810059", "stock_close": "1150.569946", "email count": 1}
+{"index": {"_index": "stock", "_id": 266}}
+{"date": "2004-04-06", "stock_open": "1150.569946", "stock_close": "1148.160034", "email count": 2}
+{"index": {"_index": "stock", "_id": 267}}
+{"date": "2004-04-07", "stock_open": "1148.160034", "stock_close": "1140.530029", "email count": 2}
+{"index": {"_index": "stock", "_id": 268}}
+{"date": "2004-04-08", "stock_open": "1140.530029", "stock_close": "1139.319946", "email count": 1}
+{"index": {"_index": "stock", "_id": 269}}
+{"date": "2004-04-12", "stock_open": "1139.319946", "stock_close": "1145.199951", "email count": 1}
+{"index": {"_index": "stock", "_id": 270}}
+{"date": "2004-04-13", "stock_open": "1145.199951", "stock_close": "1129.439941", "email count": 3}
+{"index": {"_index": "stock", "_id": 271}}
+{"date": "2004-04-14", "stock_open": "1129.439941", "stock_close": "1128.170044", "email count": 4}
+{"index": {"_index": "stock", "_id": 272}}
+{"date": "2004-04-15", "stock_open": "1128.170044", "stock_close": "1128.839966", "email count": 1}
+{"index": {"_index": "stock", "_id": 273}}
+{"date": "2004-04-20", "stock_open": "1135.819946", "stock_close": "1118.150024", "email count": 2}
+{"index": {"_index": "stock", "_id": 274}}
+{"date": "2004-04-22", "stock_open": "1124.089966", "stock_close": "1139.930054", "email count": 1}
+{"index": {"_index": "stock", "_id": 275}}
+{"date": "2004-04-26", "stock_open": "1140.599976", "stock_close": "1135.530029", "email count": 1}
+{"index": {"_index": "stock", "_id": 276}}
+{"date": "2004-04-28", "stock_open": "1138.109985", "stock_close": "1122.410034", "email count": 1}
+{"index": {"_index": "stock", "_id": 277}}
+{"date": "2004-04-29", "stock_open": "1122.410034", "stock_close": "1113.890015", "email count": 1}
+{"index": {"_index": "stock", "_id": 278}}
+{"date": "2004-04-30", "stock_open": "1113.890015", "stock_close": "1107.300049", "email count": 3}
+{"index": {"_index": "stock", "_id": 279}}
+{"date": "2004-05-03", "stock_open": "1107.300049", "stock_close": "1117.48999", "email count": 1}
+{"index": {"_index": "stock", "_id": 280}}
+{"date": "2004-05-05", "stock_open": "1119.550049", "stock_close": "1121.530029", "email count": 2}
+{"index": {"_index": "stock", "_id": 281}}
+{"date": "2004-05-06", "stock_open": "1121.530029", "stock_close": "1113.98999", "email count": 3}
+{"index": {"_index": "stock", "_id": 282}}
+{"date": "2004-05-07", "stock_open": "1113.98999", "stock_close": "1098.699951", "email count": 2}
+{"index": {"_index": "stock", "_id": 283}}
+{"date": "2004-05-11", "stock_open": "1087.119995", "stock_close": "1095.449951", "email count": 1}
+{"index": {"_index": "stock", "_id": 284}}
+{"date": "2004-05-12", "stock_open": "1095.449951", "stock_close": "1097.280029", "email count": 3}
+{"index": {"_index": "stock", "_id": 285}}
+{"date": "2004-05-13", "stock_open": "1097.280029", "stock_close": "1096.439941", "email count": 1}
+{"index": {"_index": "stock", "_id": 286}}
+{"date": "2004-05-14", "stock_open": "1096.439941", "stock_close": "1095.699951", "email count": 1}
+{"index": {"_index": "stock", "_id": 287}}
+{"date": "2004-05-17", "stock_open": "1095.699951", "stock_close": "1084.099976", "email count": 2}
+{"index": {"_index": "stock", "_id": 288}}
+{"date": "2004-05-18", "stock_open": "1084.099976", "stock_close": "1091.48999", "email count": 9}
+{"index": {"_index": "stock", "_id": 289}}
+{"date": "2004-05-19", "stock_open": "1091.48999", "stock_close": "1088.680054", "email count": 2}
+{"index": {"_index": "stock", "_id": 290}}
+{"date": "2004-05-20", "stock_open": "1088.680054", "stock_close": "1089.189941", "email count": 2}
+{"index": {"_index": "stock", "_id": 291}}
+{"date": "2004-05-24", "stock_open": "1093.560059", "stock_close": "1095.410034", "email count": 2}
+{"index": {"_index": "stock", "_id": 292}}
+{"date": "2004-05-25", "stock_open": "1095.410034", "stock_close": "1113.050049", "email count": 1}
+{"index": {"_index": "stock", "_id": 293}}
+{"date": "2004-05-26", "stock_open": "1113.050049", "stock_close": "1114.939941", "email count": 1}
+{"index": {"_index": "stock", "_id": 294}}
+{"date": "2004-05-27", "stock_open": "1114.939941", "stock_close": "1121.280029", "email count": 1}
+{"index": {"_index": "stock", "_id": 295}}
+{"date": "2004-05-28", "stock_open": "1121.280029", "stock_close": "1120.680054", "email count": 3}
+{"index": {"_index": "stock", "_id": 296}}
+{"date": "2004-06-01", "stock_open": "1120.680054", "stock_close": "1121.199951", "email count": 5}
+{"index": {"_index": "stock", "_id": 297}}
+{"date": "2004-06-02", "stock_open": "1121.199951", "stock_close": "1124.98999", "email count": 14}
+{"index": {"_index": "stock", "_id": 298}}
+{"date": "2004-06-03", "stock_open": "1124.98999", "stock_close": "1116.640015", "email count": 11}
+{"index": {"_index": "stock", "_id": 299}}
+{"date": "2004-06-04", "stock_open": "1116.640015", "stock_close": "1122.5", "email count": 15}
+{"index": {"_index": "stock", "_id": 300}}
+{"date": "2004-06-07", "stock_open": "1122.5", "stock_close": "1140.420044", "email count": 2}
+{"index": {"_index": "stock", "_id": 301}}
+{"date": "2004-06-08", "stock_open": "1140.420044", "stock_close": "1142.180054", "email count": 4}
+{"index": {"_index": "stock", "_id": 302}}
+{"date": "2004-06-09", "stock_open": "1142.180054", "stock_close": "1131.329956", "email count": 2}
+{"index": {"_index": "stock", "_id": 303}}
+{"date": "2004-06-10", "stock_open": "1131.329956", "stock_close": "1136.469971", "email count": 3}
+{"index": {"_index": "stock", "_id": 304}}
+{"date": "2004-06-14", "stock_open": "1136.469971", "stock_close": "1125.290039", "email count": 9}
+{"index": {"_index": "stock", "_id": 305}}
+{"date": "2004-06-18", "stock_open": "1132.050049", "stock_close": "1135.02002", "email count": 1}
+{"index": {"_index": "stock", "_id": 306}}
+{"date": "2004-06-21", "stock_open": "1135.02002", "stock_close": "1130.300049", "email count": 1}
+{"index": {"_index": "stock", "_id": 307}}
+{"date": "2004-06-22", "stock_open": "1130.300049", "stock_close": "1134.410034", "email count": 1}
+{"index": {"_index": "stock", "_id": 308}}
+{"date": "2004-06-24", "stock_open": "1144.060059", "stock_close": "1140.650024", "email count": 2}
+{"index": {"_index": "stock", "_id": 309}}
+{"date": "2004-06-25", "stock_open": "1140.650024", "stock_close": "1134.430054", "email count": 3}
+{"index": {"_index": "stock", "_id": 310}}
+{"date": "2004-06-28", "stock_open": "1134.430054", "stock_close": "1133.349976", "email count": 3}
+{"index": {"_index": "stock", "_id": 311}}
+{"date": "2004-06-30", "stock_open": "1136.199951", "stock_close": "1140.839966", "email count": 2}
+{"index": {"_index": "stock", "_id": 312}}
+{"date": "2004-07-01", "stock_open": "1140.839966", "stock_close": "1128.939941", "email count": 2}
+{"index": {"_index": "stock", "_id": 313}}
+{"date": "2004-07-02", "stock_open": "1128.939941", "stock_close": "1125.380005", "email count": 6}
+{"index": {"_index": "stock", "_id": 314}}
+{"date": "2004-07-06", "stock_open": "1125.380005", "stock_close": "1116.209961", "email count": 2}
+{"index": {"_index": "stock", "_id": 315}}
+{"date": "2004-07-07", "stock_open": "1116.209961", "stock_close": "1118.329956", "email count": 3}
+{"index": {"_index": "stock", "_id": 316}}
+{"date": "2004-07-09", "stock_open": "1109.109985", "stock_close": "1112.810059", "email count": 3}
+{"index": {"_index": "stock", "_id": 317}}
+{"date": "2004-07-12", "stock_open": "1112.810059", "stock_close": "1114.349976", "email count": 2}
+{"index": {"_index": "stock", "_id": 318}}
+{"date": "2004-07-14", "stock_open": "1115.140015", "stock_close": "1111.469971", "email count": 2}
+{"index": {"_index": "stock", "_id": 319}}
+{"date": "2004-07-15", "stock_open": "1111.469971", "stock_close": "1106.689941", "email count": 3}
+{"index": {"_index": "stock", "_id": 320}}
+{"date": "2004-07-16", "stock_open": "1106.689941", "stock_close": "1101.390015", "email count": 2}
+{"index": {"_index": "stock", "_id": 321}}
+{"date": "2004-07-19", "stock_open": "1101.390015", "stock_close": "1100.900024", "email count": 2}
+{"index": {"_index": "stock", "_id": 322}}
+{"date": "2004-07-20", "stock_open": "1100.900024", "stock_close": "1108.670044", "email count": 1}
+{"index": {"_index": "stock", "_id": 323}}
+{"date": "2004-07-21", "stock_open": "1108.670044", "stock_close": "1093.880005", "email count": 10}
+{"index": {"_index": "stock", "_id": 324}}
+{"date": "2004-07-22", "stock_open": "1093.880005", "stock_close": "1096.839966", "email count": 3}
+{"index": {"_index": "stock", "_id": 325}}
+{"date": "2004-07-23", "stock_open": "1096.839966", "stock_close": "1086.199951", "email count": 1}
+{"index": {"_index": "stock", "_id": 326}}
+{"date": "2004-07-26", "stock_open": "1086.199951", "stock_close": "1084.069946", "email count": 3}
+{"index": {"_index": "stock", "_id": 327}}
+{"date": "2004-07-27", "stock_open": "1084.069946", "stock_close": "1094.829956", "email count": 1}
+{"index": {"_index": "stock", "_id": 328}}
+{"date": "2004-07-28", "stock_open": "1094.829956", "stock_close": "1095.420044", "email count": 1}
+{"index": {"_index": "stock", "_id": 329}}
+{"date": "2004-07-29", "stock_open": "1095.420044", "stock_close": "1100.430054", "email count": 1}
+{"index": {"_index": "stock", "_id": 330}}
+{"date": "2004-08-02", "stock_open": "1101.719971", "stock_close": "1106.619995", "email count": 5}
+{"index": {"_index": "stock", "_id": 331}}
+{"date": "2004-08-03", "stock_open": "1106.619995", "stock_close": "1099.689941", "email count": 3}
+{"index": {"_index": "stock", "_id": 332}}
+{"date": "2004-08-04", "stock_open": "1099.689941", "stock_close": "1098.630005", "email count": 1}
+{"index": {"_index": "stock", "_id": 333}}
+{"date": "2004-08-05", "stock_open": "1098.630005", "stock_close": "1080.699951", "email count": 4}
+{"index": {"_index": "stock", "_id": 334}}
+{"date": "2004-08-06", "stock_open": "1080.699951", "stock_close": "1063.969971", "email count": 1}
+{"index": {"_index": "stock", "_id": 335}}
+{"date": "2004-08-09", "stock_open": "1063.969971", "stock_close": "1065.219971", "email count": 2}
+{"index": {"_index": "stock", "_id": 336}}
+{"date": "2004-08-10", "stock_open": "1065.219971", "stock_close": "1079.040039", "email count": 2}
+{"index": {"_index": "stock", "_id": 337}}
+{"date": "2004-08-11", "stock_open": "1079.040039", "stock_close": "1075.790039", "email count": 1}
+{"index": {"_index": "stock", "_id": 338}}
+{"date": "2004-08-12", "stock_open": "1075.790039", "stock_close": "1063.22998", "email count": 3}
+{"index": {"_index": "stock", "_id": 339}}
+{"date": "2004-08-13", "stock_open": "1063.22998", "stock_close": "1064.800049", "email count": 2}
+{"index": {"_index": "stock", "_id": 340}}
+{"date": "2004-08-16", "stock_open": "1064.800049", "stock_close": "1079.339966", "email count": 3}
+{"index": {"_index": "stock", "_id": 341}}
+{"date": "2004-08-18", "stock_open": "1081.709961", "stock_close": "1095.170044", "email count": 2}
+{"index": {"_index": "stock", "_id": 342}}
+{"date": "2004-08-19", "stock_open": "1095.170044", "stock_close": "1091.22998", "email count": 2}
+{"index": {"_index": "stock", "_id": 343}}
+{"date": "2004-08-20", "stock_open": "1091.22998", "stock_close": "1098.349976", "email count": 2}
+{"index": {"_index": "stock", "_id": 344}}
+{"date": "2004-08-23", "stock_open": "1098.349976", "stock_close": "1095.680054", "email count": 4}
+{"index": {"_index": "stock", "_id": 345}}
+{"date": "2004-08-24", "stock_open": "1095.680054", "stock_close": "1096.189941", "email count": 3}
+{"index": {"_index": "stock", "_id": 346}}
+{"date": "2004-08-25", "stock_open": "1096.189941", "stock_close": "1104.959961", "email count": 1}
+{"index": {"_index": "stock", "_id": 347}}
+{"date": "2004-08-26", "stock_open": "1104.959961", "stock_close": "1105.089966", "email count": 1}
+{"index": {"_index": "stock", "_id": 348}}
+{"date": "2004-08-27", "stock_open": "1105.089966", "stock_close": "1107.77002", "email count": 2}
+{"index": {"_index": "stock", "_id": 349}}
+{"date": "2004-08-30", "stock_open": "1107.77002", "stock_close": "1099.150024", "email count": 1}
+{"index": {"_index": "stock", "_id": 350}}
+{"date": "2004-08-31", "stock_open": "1099.150024", "stock_close": "1104.23999", "email count": 1}
+{"index": {"_index": "stock", "_id": 351}}
+{"date": "2004-09-01", "stock_open": "1104.23999", "stock_close": "1105.910034", "email count": 1}
+{"index": {"_index": "stock", "_id": 352}}
+{"date": "2004-09-03", "stock_open": "1118.310059", "stock_close": "1113.630005", "email count": 2}
+{"index": {"_index": "stock", "_id": 353}}
+{"date": "2004-09-08", "stock_open": "1121.300049", "stock_close": "1116.27002", "email count": 2}
+{"index": {"_index": "stock", "_id": 354}}
+{"date": "2004-09-09", "stock_open": "1116.27002", "stock_close": "1118.380005", "email count": 2}
+{"index": {"_index": "stock", "_id": 355}}
+{"date": "2004-09-10", "stock_open": "1118.380005", "stock_close": "1123.920044", "email count": 1}
+{"index": {"_index": "stock", "_id": 356}}
+{"date": "2004-09-13", "stock_open": "1123.920044", "stock_close": "1125.819946", "email count": 2}
+{"index": {"_index": "stock", "_id": 357}}
+{"date": "2004-09-14", "stock_open": "1125.819946", "stock_close": "1128.329956", "email count": 1}
+{"index": {"_index": "stock", "_id": 358}}
+{"date": "2004-09-16", "stock_open": "1120.369995", "stock_close": "1123.5", "email count": 3}
+{"index": {"_index": "stock", "_id": 359}}
+{"date": "2004-09-17", "stock_open": "1123.5", "stock_close": "1128.550049", "email count": 4}
+{"index": {"_index": "stock", "_id": 360}}
+{"date": "2004-09-20", "stock_open": "1128.550049", "stock_close": "1122.199951", "email count": 7}
+{"index": {"_index": "stock", "_id": 361}}
+{"date": "2004-09-21", "stock_open": "1122.199951", "stock_close": "1129.300049", "email count": 4}
+{"index": {"_index": "stock", "_id": 362}}
+{"date": "2004-09-22", "stock_open": "1129.300049", "stock_close": "1113.560059", "email count": 8}
+{"index": {"_index": "stock", "_id": 363}}
+{"date": "2004-09-23", "stock_open": "1113.560059", "stock_close": "1108.359985", "email count": 4}
+{"index": {"_index": "stock", "_id": 364}}
+{"date": "2004-09-24", "stock_open": "1108.359985", "stock_close": "1110.109985", "email count": 4}
+{"index": {"_index": "stock", "_id": 365}}
+{"date": "2004-09-27", "stock_open": "1110.109985", "stock_close": "1103.52002", "email count": 2}
+{"index": {"_index": "stock", "_id": 366}}
+{"date": "2004-09-28", "stock_open": "1103.52002", "stock_close": "1110.060059", "email count": 6}
+{"index": {"_index": "stock", "_id": 367}}
+{"date": "2004-09-29", "stock_open": "1110.060059", "stock_close": "1114.800049", "email count": 3}
+{"index": {"_index": "stock", "_id": 368}}
+{"date": "2004-09-30", "stock_open": "1114.800049", "stock_close": "1114.579956", "email count": 3}
+{"index": {"_index": "stock", "_id": 369}}
+{"date": "2004-10-01", "stock_open": "1114.579956", "stock_close": "1131.5", "email count": 1}
+{"index": {"_index": "stock", "_id": 370}}
+{"date": "2004-10-04", "stock_open": "1131.5", "stock_close": "1135.170044", "email count": 2}
+{"index": {"_index": "stock", "_id": 371}}
+{"date": "2004-10-05", "stock_open": "1135.170044", "stock_close": "1134.47998", "email count": 1}
+{"index": {"_index": "stock", "_id": 372}}
+{"date": "2004-10-11", "stock_open": "1122.140015", "stock_close": "1124.390015", "email count": 1}
+{"index": {"_index": "stock", "_id": 373}}
+{"date": "2004-10-12", "stock_open": "1124.390015", "stock_close": "1121.839966", "email count": 1}
+{"index": {"_index": "stock", "_id": 374}}
+{"date": "2004-10-13", "stock_open": "1121.839966", "stock_close": "1113.650024", "email count": 1}
+{"index": {"_index": "stock", "_id": 375}}
+{"date": "2004-10-14", "stock_open": "1113.650024", "stock_close": "1103.290039", "email count": 1}
+{"index": {"_index": "stock", "_id": 376}}
+{"date": "2004-10-15", "stock_open": "1103.290039", "stock_close": "1108.199951", "email count": 1}
+{"index": {"_index": "stock", "_id": 377}}
+{"date": "2004-10-22", "stock_open": "1106.48999", "stock_close": "1095.73999", "email count": 2}
+{"index": {"_index": "stock", "_id": 378}}
+{"date": "2004-10-25", "stock_open": "1095.73999", "stock_close": "1094.800049", "email count": 1}
+{"index": {"_index": "stock", "_id": 379}}
+{"date": "2004-10-26", "stock_open": "1094.810059", "stock_close": "1111.089966", "email count": 3}
+{"index": {"_index": "stock", "_id": 380}}
+{"date": "2004-10-28", "stock_open": "1125.339966", "stock_close": "1127.439941", "email count": 2}
+{"index": {"_index": "stock", "_id": 381}}
+{"date": "2004-10-29", "stock_open": "1127.439941", "stock_close": "1130.199951", "email count": 4}
+{"index": {"_index": "stock", "_id": 382}}
+{"date": "2004-11-01", "stock_open": "1130.199951", "stock_close": "1130.51001", "email count": 3}
+{"index": {"_index": "stock", "_id": 383}}
+{"date": "2004-11-02", "stock_open": "1130.51001", "stock_close": "1130.560059", "email count": 3}
+{"index": {"_index": "stock", "_id": 384}}
+{"date": "2004-11-04", "stock_open": "1143.199951", "stock_close": "1161.670044", "email count": 1}
+{"index": {"_index": "stock", "_id": 385}}
+{"date": "2004-11-05", "stock_open": "1161.670044", "stock_close": "1166.170044", "email count": 5}
+{"index": {"_index": "stock", "_id": 386}}
+{"date": "2004-11-08", "stock_open": "1166.170044", "stock_close": "1164.890015", "email count": 6}
+{"index": {"_index": "stock", "_id": 387}}
+{"date": "2004-11-09", "stock_open": "1164.890015", "stock_close": "1164.079956", "email count": 2}
+{"index": {"_index": "stock", "_id": 388}}
+{"date": "2004-11-10", "stock_open": "1164.079956", "stock_close": "1162.910034", "email count": 2}
+{"index": {"_index": "stock", "_id": 389}}
+{"date": "2004-11-11", "stock_open": "1162.910034", "stock_close": "1173.47998", "email count": 2}
+{"index": {"_index": "stock", "_id": 390}}
+{"date": "2004-11-12", "stock_open": "1173.47998", "stock_close": "1184.170044", "email count": 2}
+{"index": {"_index": "stock", "_id": 391}}
+{"date": "2004-11-15", "stock_open": "1184.170044", "stock_close": "1183.810059", "email count": 1}
+{"index": {"_index": "stock", "_id": 392}}
+{"date": "2004-11-16", "stock_open": "1183.810059", "stock_close": "1175.430054", "email count": 4}
+{"index": {"_index": "stock", "_id": 393}}
+{"date": "2004-11-17", "stock_open": "1175.430054", "stock_close": "1181.939941", "email count": 3}
+{"index": {"_index": "stock", "_id": 394}}
+{"date": "2004-11-18", "stock_open": "1181.939941", "stock_close": "1183.550049", "email count": 3}
+{"index": {"_index": "stock", "_id": 395}}
+{"date": "2004-11-19", "stock_open": "1183.550049", "stock_close": "1170.339966", "email count": 3}
+{"index": {"_index": "stock", "_id": 396}}
+{"date": "2004-11-22", "stock_open": "1170.339966", "stock_close": "1177.23999", "email count": 1}
+{"index": {"_index": "stock", "_id": 397}}
+{"date": "2004-11-23", "stock_open": "1177.23999", "stock_close": "1176.939941", "email count": 1}
+{"index": {"_index": "stock", "_id": 398}}
+{"date": "2004-11-24", "stock_open": "1176.939941", "stock_close": "1181.76001", "email count": 10}
+{"index": {"_index": "stock", "_id": 399}}
+{"date": "2004-11-26", "stock_open": "1181.76001", "stock_close": "1182.650024", "email count": 2}
+{"index": {"_index": "stock", "_id": 400}}
+{"date": "2004-11-29", "stock_open": "1182.650024", "stock_close": "1178.569946", "email count": 3}
+{"index": {"_index": "stock", "_id": 401}}
+{"date": "2004-11-30", "stock_open": "1178.569946", "stock_close": "1173.819946", "email count": 1}
+{"index": {"_index": "stock", "_id": 402}}
+{"date": "2004-12-02", "stock_open": "1191.369995", "stock_close": "1190.329956", "email count": 5}
+{"index": {"_index": "stock", "_id": 403}}
+{"date": "2004-12-03", "stock_open": "1190.329956", "stock_close": "1191.170044", "email count": 2}
+{"index": {"_index": "stock", "_id": 404}}
+{"date": "2004-12-06", "stock_open": "1191.170044", "stock_close": "1190.25", "email count": 1}
+{"index": {"_index": "stock", "_id": 405}}
+{"date": "2004-12-07", "stock_open": "1190.25", "stock_close": "1177.069946", "email count": 2}
+{"index": {"_index": "stock", "_id": 406}}
+{"date": "2004-12-08", "stock_open": "1177.069946", "stock_close": "1182.810059", "email count": 1}
+{"index": {"_index": "stock", "_id": 407}}
+{"date": "2004-12-13", "stock_open": "1188.0", "stock_close": "1198.680054", "email count": 6}
+{"index": {"_index": "stock", "_id": 408}}
+{"date": "2004-12-15", "stock_open": "1203.380005", "stock_close": "1205.719971", "email count": 3}
+{"index": {"_index": "stock", "_id": 409}}
+{"date": "2004-12-17", "stock_open": "1203.209961", "stock_close": "1194.199951", "email count": 1}
+{"index": {"_index": "stock", "_id": 410}}
+{"date": "2004-12-21", "stock_open": "1194.650024", "stock_close": "1205.449951", "email count": 1}
+{"index": {"_index": "stock", "_id": 411}}
+{"date": "2004-12-22", "stock_open": "1205.449951", "stock_close": "1209.569946", "email count": 2}
+{"index": {"_index": "stock", "_id": 412}}
+{"date": "2004-12-23", "stock_open": "1209.569946", "stock_close": "1210.130005", "email count": 1}
+{"index": {"_index": "stock", "_id": 413}}
+{"date": "2004-12-27", "stock_open": "1210.130005", "stock_close": "1204.920044", "email count": 1}
+{"index": {"_index": "stock", "_id": 414}}
+{"date": "2004-12-28", "stock_open": "1204.920044", "stock_close": "1213.540039", "email count": 3}
+{"index": {"_index": "stock", "_id": 415}}
+{"date": "2004-12-29", "stock_open": "1213.540039", "stock_close": "1213.449951", "email count": 1}
+{"index": {"_index": "stock", "_id": 416}}
+{"date": "2004-12-31", "stock_open": "1213.550049", "stock_close": "1211.920044", "email count": 1}
+{"index": {"_index": "stock", "_id": 417}}
+{"date": "2005-01-03", "stock_open": "1211.920044", "stock_close": "1202.079956", "email count": 2}
+{"index": {"_index": "stock", "_id": 418}}
+{"date": "2005-01-05", "stock_open": "1188.050049", "stock_close": "1183.73999", "email count": 1}
+{"index": {"_index": "stock", "_id": 419}}
+{"date": "2005-01-06", "stock_open": "1183.73999", "stock_close": "1187.890015", "email count": 1}
+{"index": {"_index": "stock", "_id": 420}}
+{"date": "2005-01-07", "stock_open": "1187.890015", "stock_close": "1186.189941", "email count": 1}
+{"index": {"_index": "stock", "_id": 421}}
+{"date": "2005-01-10", "stock_open": "1186.189941", "stock_close": "1190.25", "email count": 2}
+{"index": {"_index": "stock", "_id": 422}}
+{"date": "2005-01-11", "stock_open": "1190.25", "stock_close": "1182.98999", "email count": 3}
+{"index": {"_index": "stock", "_id": 423}}
+{"date": "2005-01-12", "stock_open": "1182.98999", "stock_close": "1187.699951", "email count": 5}
+{"index": {"_index": "stock", "_id": 424}}
+{"date": "2005-01-13", "stock_open": "1187.699951", "stock_close": "1177.449951", "email count": 1}
+{"index": {"_index": "stock", "_id": 425}}
+{"date": "2005-01-14", "stock_open": "1177.449951", "stock_close": "1184.52002", "email count": 4}
+{"index": {"_index": "stock", "_id": 426}}
+{"date": "2005-01-18", "stock_open": "1184.52002", "stock_close": "1195.97998", "email count": 4}
+{"index": {"_index": "stock", "_id": 427}}
+{"date": "2005-01-19", "stock_open": "1195.97998", "stock_close": "1184.630005", "email count": 4}
+{"index": {"_index": "stock", "_id": 428}}
+{"date": "2005-01-21", "stock_open": "1175.410034", "stock_close": "1167.869995", "email count": 2}
+{"index": {"_index": "stock", "_id": 429}}
+{"date": "2005-01-24", "stock_open": "1167.869995", "stock_close": "1163.75", "email count": 1}
+{"index": {"_index": "stock", "_id": 430}}
+{"date": "2005-01-25", "stock_open": "1163.75", "stock_close": "1168.410034", "email count": 1}
+{"index": {"_index": "stock", "_id": 431}}
+{"date": "2005-01-26", "stock_open": "1168.410034", "stock_close": "1174.069946", "email count": 2}
+{"index": {"_index": "stock", "_id": 432}}
+{"date": "2005-01-27", "stock_open": "1174.069946", "stock_close": "1174.550049", "email count": 4}
+{"index": {"_index": "stock", "_id": 433}}
+{"date": "2005-01-28", "stock_open": "1174.550049", "stock_close": "1171.359985", "email count": 1}
+{"index": {"_index": "stock", "_id": 434}}
+{"date": "2005-01-31", "stock_open": "1171.359985", "stock_close": "1181.27002", "email count": 1}
+{"index": {"_index": "stock", "_id": 435}}
+{"date": "2005-02-01", "stock_open": "1181.27002", "stock_close": "1189.410034", "email count": 3}
+{"index": {"_index": "stock", "_id": 436}}
+{"date": "2005-02-02", "stock_open": "1189.410034", "stock_close": "1193.189941", "email count": 1}
+{"index": {"_index": "stock", "_id": 437}}
+{"date": "2005-02-03", "stock_open": "1193.189941", "stock_close": "1189.890015", "email count": 1}
+{"index": {"_index": "stock", "_id": 438}}
+{"date": "2005-02-04", "stock_open": "1189.890015", "stock_close": "1203.030029", "email count": 5}
+{"index": {"_index": "stock", "_id": 439}}
+{"date": "2005-02-07", "stock_open": "1203.030029", "stock_close": "1201.719971", "email count": 4}
+{"index": {"_index": "stock", "_id": 440}}
+{"date": "2005-02-08", "stock_open": "1201.719971", "stock_close": "1202.300049", "email count": 8}
+{"index": {"_index": "stock", "_id": 441}}
+{"date": "2005-02-09", "stock_open": "1202.300049", "stock_close": "1191.98999", "email count": 4}
+{"index": {"_index": "stock", "_id": 442}}
+{"date": "2005-02-10", "stock_open": "1191.98999", "stock_close": "1197.01001", "email count": 4}
+{"index": {"_index": "stock", "_id": 443}}
+{"date": "2005-02-11", "stock_open": "1197.01001", "stock_close": "1205.300049", "email count": 5}
+{"index": {"_index": "stock", "_id": 444}}
+{"date": "2005-02-14", "stock_open": "1205.300049", "stock_close": "1206.140015", "email count": 3}
+{"index": {"_index": "stock", "_id": 445}}
+{"date": "2005-02-16", "stock_open": "1210.119995", "stock_close": "1210.339966", "email count": 1}
+{"index": {"_index": "stock", "_id": 446}}
+{"date": "2005-02-17", "stock_open": "1210.339966", "stock_close": "1200.75", "email count": 3}
+{"index": {"_index": "stock", "_id": 447}}
+{"date": "2005-02-18", "stock_open": "1200.75", "stock_close": "1201.589966", "email count": 2}
+{"index": {"_index": "stock", "_id": 448}}
+{"date": "2005-02-22", "stock_open": "1201.589966", "stock_close": "1184.160034", "email count": 2}
+{"index": {"_index": "stock", "_id": 449}}
+{"date": "2005-02-23", "stock_open": "1184.160034", "stock_close": "1190.800049", "email count": 6}
+{"index": {"_index": "stock", "_id": 450}}
+{"date": "2005-02-25", "stock_open": "1200.199951", "stock_close": "1211.369995", "email count": 6}
+{"index": {"_index": "stock", "_id": 451}}
+{"date": "2005-02-28", "stock_open": "1211.369995", "stock_close": "1203.599976", "email count": 3}
+{"index": {"_index": "stock", "_id": 452}}
+{"date": "2005-03-01", "stock_open": "1203.599976", "stock_close": "1210.410034", "email count": 2}
+{"index": {"_index": "stock", "_id": 453}}
+{"date": "2005-03-02", "stock_open": "1210.410034", "stock_close": "1210.079956", "email count": 3}
+{"index": {"_index": "stock", "_id": 454}}
+{"date": "2005-03-03", "stock_open": "1210.079956", "stock_close": "1210.469971", "email count": 1}
+{"index": {"_index": "stock", "_id": 455}}
+{"date": "2005-03-04", "stock_open": "1210.469971", "stock_close": "1222.119995", "email count": 1}
+{"index": {"_index": "stock", "_id": 456}}
+{"date": "2005-03-07", "stock_open": "1222.119995", "stock_close": "1225.310059", "email count": 1}
+{"index": {"_index": "stock", "_id": 457}}
+{"date": "2005-03-09", "stock_open": "1219.430054", "stock_close": "1207.01001", "email count": 1}
+{"index": {"_index": "stock", "_id": 458}}
+{"date": "2005-03-10", "stock_open": "1207.01001", "stock_close": "1209.25", "email count": 6}
+{"index": {"_index": "stock", "_id": 459}}
+{"date": "2005-03-11", "stock_open": "1209.25", "stock_close": "1200.079956", "email count": 5}
+{"index": {"_index": "stock", "_id": 460}}
+{"date": "2005-03-14", "stock_open": "1200.079956", "stock_close": "1206.829956", "email count": 2}
+{"index": {"_index": "stock", "_id": 461}}
+{"date": "2005-03-15", "stock_open": "1206.829956", "stock_close": "1197.75", "email count": 8}
+{"index": {"_index": "stock", "_id": 462}}
+{"date": "2005-03-16", "stock_open": "1197.75", "stock_close": "1188.069946", "email count": 2}
+{"index": {"_index": "stock", "_id": 463}}
+{"date": "2005-03-17", "stock_open": "1188.069946", "stock_close": "1190.209961", "email count": 5}
+{"index": {"_index": "stock", "_id": 464}}
+{"date": "2005-03-18", "stock_open": "1190.209961", "stock_close": "1189.650024", "email count": 2}
+{"index": {"_index": "stock", "_id": 465}}
+{"date": "2005-03-21", "stock_open": "1189.650024", "stock_close": "1183.780029", "email count": 2}
+{"index": {"_index": "stock", "_id": 466}}
+{"date": "2005-03-22", "stock_open": "1183.780029", "stock_close": "1171.709961", "email count": 7}
+{"index": {"_index": "stock", "_id": 467}}
+{"date": "2005-03-23", "stock_open": "1171.709961", "stock_close": "1172.530029", "email count": 3}
+{"index": {"_index": "stock", "_id": 468}}
+{"date": "2005-03-24", "stock_open": "1172.530029", "stock_close": "1171.420044", "email count": 7}
+{"index": {"_index": "stock", "_id": 469}}
+{"date": "2005-03-28", "stock_open": "1171.420044", "stock_close": "1174.280029", "email count": 2}
+{"index": {"_index": "stock", "_id": 470}}
+{"date": "2005-03-29", "stock_open": "1174.280029", "stock_close": "1165.359985", "email count": 2}
+{"index": {"_index": "stock", "_id": 471}}
+{"date": "2005-03-30", "stock_open": "1165.359985", "stock_close": "1181.410034", "email count": 5}
+{"index": {"_index": "stock", "_id": 472}}
+{"date": "2005-03-31", "stock_open": "1181.410034", "stock_close": "1180.589966", "email count": 3}
+{"index": {"_index": "stock", "_id": 473}}
+{"date": "2005-04-01", "stock_open": "1180.589966", "stock_close": "1172.920044", "email count": 3}
+{"index": {"_index": "stock", "_id": 474}}
+{"date": "2005-04-04", "stock_open": "1172.790039", "stock_close": "1176.119995", "email count": 2}
+{"index": {"_index": "stock", "_id": 475}}
+{"date": "2005-04-05", "stock_open": "1176.119995", "stock_close": "1181.390015", "email count": 2}
+{"index": {"_index": "stock", "_id": 476}}
+{"date": "2005-04-07", "stock_open": "1184.069946", "stock_close": "1191.140015", "email count": 2}
+{"index": {"_index": "stock", "_id": 477}}
+{"date": "2005-04-08", "stock_open": "1191.140015", "stock_close": "1181.199951", "email count": 3}
+{"index": {"_index": "stock", "_id": 478}}
+{"date": "2005-04-12", "stock_open": "1181.209961", "stock_close": "1187.76001", "email count": 3}
+{"index": {"_index": "stock", "_id": 479}}
+{"date": "2005-04-13", "stock_open": "1187.76001", "stock_close": "1173.790039", "email count": 1}
+{"index": {"_index": "stock", "_id": 480}}
+{"date": "2005-04-14", "stock_open": "1173.790039", "stock_close": "1162.050049", "email count": 3}
+{"index": {"_index": "stock", "_id": 481}}
+{"date": "2005-04-18", "stock_open": "1142.619995", "stock_close": "1145.97998", "email count": 3}
+{"index": {"_index": "stock", "_id": 482}}
+{"date": "2005-04-20", "stock_open": "1152.780029", "stock_close": "1137.5", "email count": 1}
+{"index": {"_index": "stock", "_id": 483}}
+{"date": "2005-04-21", "stock_open": "1137.5", "stock_close": "1159.949951", "email count": 3}
+{"index": {"_index": "stock", "_id": 484}}
+{"date": "2005-04-22", "stock_open": "1159.949951", "stock_close": "1152.119995", "email count": 2}
+{"index": {"_index": "stock", "_id": 485}}
+{"date": "2005-04-25", "stock_open": "1152.119995", "stock_close": "1162.099976", "email count": 4}
+{"index": {"_index": "stock", "_id": 486}}
+{"date": "2005-04-28", "stock_open": "1156.380005", "stock_close": "1143.219971", "email count": 3}
+{"index": {"_index": "stock", "_id": 487}}
+{"date": "2005-04-29", "stock_open": "1143.219971", "stock_close": "1156.849976", "email count": 4}
+{"index": {"_index": "stock", "_id": 488}}
+{"date": "2005-05-02", "stock_open": "1156.849976", "stock_close": "1162.160034", "email count": 5}
+{"index": {"_index": "stock", "_id": 489}}
+{"date": "2005-05-03", "stock_open": "1162.160034", "stock_close": "1161.170044", "email count": 5}
+{"index": {"_index": "stock", "_id": 490}}
+{"date": "2005-05-04", "stock_open": "1161.170044", "stock_close": "1175.650024", "email count": 4}
+{"index": {"_index": "stock", "_id": 491}}
+{"date": "2005-05-10", "stock_open": "1178.839966", "stock_close": "1166.219971", "email count": 4}
+{"index": {"_index": "stock", "_id": 492}}
+{"date": "2005-05-11", "stock_open": "1166.219971", "stock_close": "1171.109985", "email count": 3}
+{"index": {"_index": "stock", "_id": 493}}
+{"date": "2005-05-12", "stock_open": "1171.109985", "stock_close": "1159.359985", "email count": 2}
+{"index": {"_index": "stock", "_id": 494}}
+{"date": "2005-05-13", "stock_open": "1159.359985", "stock_close": "1154.050049", "email count": 1}
+{"index": {"_index": "stock", "_id": 495}}
+{"date": "2005-05-18", "stock_open": "1173.800049", "stock_close": "1185.560059", "email count": 6}
+{"index": {"_index": "stock", "_id": 496}}
+{"date": "2005-05-19", "stock_open": "1185.560059", "stock_close": "1191.079956", "email count": 5}
+{"index": {"_index": "stock", "_id": 497}}
+{"date": "2005-05-23", "stock_open": "1189.280029", "stock_close": "1193.859985", "email count": 5}
+{"index": {"_index": "stock", "_id": 498}}
+{"date": "2005-05-24", "stock_open": "1193.859985", "stock_close": "1194.069946", "email count": 1}
+{"index": {"_index": "stock", "_id": 499}}
+{"date": "2005-05-25", "stock_open": "1194.069946", "stock_close": "1190.01001", "email count": 2}
+{"index": {"_index": "stock", "_id": 500}}
+{"date": "2005-05-26", "stock_open": "1190.01001", "stock_close": "1197.619995", "email count": 4}
+{"index": {"_index": "stock", "_id": 501}}
+{"date": "2005-05-27", "stock_open": "1197.619995", "stock_close": "1198.780029", "email count": 5}
+{"index": {"_index": "stock", "_id": 502}}
+{"date": "2005-05-31", "stock_open": "1198.780029", "stock_close": "1191.5", "email count": 1}
+{"index": {"_index": "stock", "_id": 503}}
+{"date": "2005-06-01", "stock_open": "1191.5", "stock_close": "1202.219971", "email count": 1}
+{"index": {"_index": "stock", "_id": 504}}
+{"date": "2005-06-02", "stock_open": "1202.27002", "stock_close": "1204.290039", "email count": 2}
+{"index": {"_index": "stock", "_id": 505}}
+{"date": "2005-06-06", "stock_open": "1196.02002", "stock_close": "1197.51001", "email count": 1}
+{"index": {"_index": "stock", "_id": 506}}
+{"date": "2005-06-07", "stock_open": "1197.51001", "stock_close": "1197.26001", "email count": 3}
+{"index": {"_index": "stock", "_id": 507}}
+{"date": "2005-06-08", "stock_open": "1197.26001", "stock_close": "1194.670044", "email count": 3}
+{"index": {"_index": "stock", "_id": 508}}
+{"date": "2005-06-09", "stock_open": "1194.670044", "stock_close": "1200.930054", "email count": 1}
+{"index": {"_index": "stock", "_id": 509}}
+{"date": "2005-06-10", "stock_open": "1200.930054", "stock_close": "1198.109985", "email count": 2}
+{"index": {"_index": "stock", "_id": 510}}
+{"date": "2005-06-13", "stock_open": "1198.109985", "stock_close": "1200.819946", "email count": 1}
+{"index": {"_index": "stock", "_id": 511}}
+{"date": "2005-06-14", "stock_open": "1200.819946", "stock_close": "1203.910034", "email count": 1}
+{"index": {"_index": "stock", "_id": 512}}
+{"date": "2005-06-15", "stock_open": "1203.910034", "stock_close": "1206.579956", "email count": 2}
+{"index": {"_index": "stock", "_id": 513}}
+{"date": "2005-06-16", "stock_open": "1206.550049", "stock_close": "1210.959961", "email count": 1}
+{"index": {"_index": "stock", "_id": 514}}
+{"date": "2005-06-17", "stock_open": "1210.930054", "stock_close": "1216.959961", "email count": 4}
+{"index": {"_index": "stock", "_id": 515}}
+{"date": "2005-06-20", "stock_open": "1216.959961", "stock_close": "1216.099976", "email count": 2}
+{"index": {"_index": "stock", "_id": 516}}
+{"date": "2005-06-21", "stock_open": "1216.099976", "stock_close": "1213.609985", "email count": 4}
+{"index": {"_index": "stock", "_id": 517}}
+{"date": "2005-06-22", "stock_open": "1213.609985", "stock_close": "1213.880005", "email count": 2}
+{"index": {"_index": "stock", "_id": 518}}
+{"date": "2005-06-23", "stock_open": "1213.880005", "stock_close": "1200.72998", "email count": 3}
+{"index": {"_index": "stock", "_id": 519}}
+{"date": "2005-06-24", "stock_open": "1200.72998", "stock_close": "1191.569946", "email count": 2}
+{"index": {"_index": "stock", "_id": 520}}
+{"date": "2005-06-27", "stock_open": "1191.569946", "stock_close": "1190.689941", "email count": 1}
+{"index": {"_index": "stock", "_id": 521}}
+{"date": "2005-06-28", "stock_open": "1190.689941", "stock_close": "1201.569946", "email count": 1}
+{"index": {"_index": "stock", "_id": 522}}
+{"date": "2005-06-29", "stock_open": "1201.569946", "stock_close": "1199.849976", "email count": 2}
+{"index": {"_index": "stock", "_id": 523}}
+{"date": "2005-06-30", "stock_open": "1199.849976", "stock_close": "1191.329956", "email count": 3}
+{"index": {"_index": "stock", "_id": 524}}
+{"date": "2005-07-01", "stock_open": "1191.329956", "stock_close": "1194.439941", "email count": 5}
+{"index": {"_index": "stock", "_id": 525}}
+{"date": "2005-07-05", "stock_open": "1194.439941", "stock_close": "1204.98999", "email count": 1}
+{"index": {"_index": "stock", "_id": 526}}
+{"date": "2005-07-07", "stock_open": "1194.939941", "stock_close": "1197.869995", "email count": 1}
+{"index": {"_index": "stock", "_id": 527}}
+{"date": "2005-07-11", "stock_open": "1211.859985", "stock_close": "1219.439941", "email count": 4}
+{"index": {"_index": "stock", "_id": 528}}
+{"date": "2005-07-12", "stock_open": "1219.439941", "stock_close": "1222.209961", "email count": 2}
+{"index": {"_index": "stock", "_id": 529}}
+{"date": "2005-07-13", "stock_open": "1222.209961", "stock_close": "1223.290039", "email count": 1}
+{"index": {"_index": "stock", "_id": 530}}
+{"date": "2005-07-14", "stock_open": "1223.290039", "stock_close": "1226.5", "email count": 1}
+{"index": {"_index": "stock", "_id": 531}}
+{"date": "2005-07-15", "stock_open": "1226.5", "stock_close": "1227.920044", "email count": 2}
+{"index": {"_index": "stock", "_id": 532}}
+{"date": "2005-07-18", "stock_open": "1227.920044", "stock_close": "1221.130005", "email count": 2}
+{"index": {"_index": "stock", "_id": 533}}
+{"date": "2005-07-19", "stock_open": "1221.130005", "stock_close": "1229.349976", "email count": 3}
+{"index": {"_index": "stock", "_id": 534}}
+{"date": "2005-07-20", "stock_open": "1229.349976", "stock_close": "1235.199951", "email count": 2}
+{"index": {"_index": "stock", "_id": 535}}
+{"date": "2005-07-21", "stock_open": "1235.199951", "stock_close": "1227.040039", "email count": 2}
+{"index": {"_index": "stock", "_id": 536}}
+{"date": "2005-07-22", "stock_open": "1227.040039", "stock_close": "1233.680054", "email count": 1}
+{"index": {"_index": "stock", "_id": 537}}
+{"date": "2005-07-26", "stock_open": "1229.030029", "stock_close": "1231.160034", "email count": 3}
+{"index": {"_index": "stock", "_id": 538}}
+{"date": "2005-07-27", "stock_open": "1231.160034", "stock_close": "1236.790039", "email count": 7}
+{"index": {"_index": "stock", "_id": 539}}
+{"date": "2005-07-28", "stock_open": "1236.790039", "stock_close": "1243.719971", "email count": 2}
+{"index": {"_index": "stock", "_id": 540}}
+{"date": "2005-08-01", "stock_open": "1234.180054", "stock_close": "1235.349976", "email count": 2}
+{"index": {"_index": "stock", "_id": 541}}
+{"date": "2005-08-02", "stock_open": "1235.349976", "stock_close": "1244.119995", "email count": 3}
+{"index": {"_index": "stock", "_id": 542}}
+{"date": "2005-08-03", "stock_open": "1244.119995", "stock_close": "1245.040039", "email count": 4}
+{"index": {"_index": "stock", "_id": 543}}
+{"date": "2005-08-08", "stock_open": "1226.420044", "stock_close": "1223.130005", "email count": 1}
+{"index": {"_index": "stock", "_id": 544}}
+{"date": "2005-08-09", "stock_open": "1223.130005", "stock_close": "1231.380005", "email count": 3}
+{"index": {"_index": "stock", "_id": 545}}
+{"date": "2005-08-11", "stock_open": "1229.130005", "stock_close": "1237.810059", "email count": 1}
+{"index": {"_index": "stock", "_id": 546}}
+{"date": "2005-08-12", "stock_open": "1237.810059", "stock_close": "1230.390015", "email count": 2}
+{"index": {"_index": "stock", "_id": 547}}
+{"date": "2005-08-16", "stock_open": "1233.869995", "stock_close": "1219.339966", "email count": 2}
+{"index": {"_index": "stock", "_id": 548}}
+{"date": "2005-08-17", "stock_open": "1219.339966", "stock_close": "1220.23999", "email count": 5}
+{"index": {"_index": "stock", "_id": 549}}
+{"date": "2005-08-22", "stock_open": "1219.709961", "stock_close": "1221.72998", "email count": 1}
+{"index": {"_index": "stock", "_id": 550}}
+{"date": "2005-08-23", "stock_open": "1221.72998", "stock_close": "1217.589966", "email count": 1}
+{"index": {"_index": "stock", "_id": 551}}
+{"date": "2005-08-24", "stock_open": "1217.569946", "stock_close": "1209.589966", "email count": 5}
+{"index": {"_index": "stock", "_id": 552}}
+{"date": "2005-08-29", "stock_open": "1205.099976", "stock_close": "1212.280029", "email count": 2}
+{"index": {"_index": "stock", "_id": 553}}
+{"date": "2005-08-31", "stock_open": "1208.410034", "stock_close": "1220.329956", "email count": 3}
+{"index": {"_index": "stock", "_id": 554}}
+{"date": "2005-09-01", "stock_open": "1220.329956", "stock_close": "1221.589966", "email count": 3}
+{"index": {"_index": "stock", "_id": 555}}
+{"date": "2005-09-06", "stock_open": "1218.02002", "stock_close": "1233.390015", "email count": 1}
+{"index": {"_index": "stock", "_id": 556}}
+{"date": "2005-09-07", "stock_open": "1233.390015", "stock_close": "1236.359985", "email count": 2}
+{"index": {"_index": "stock", "_id": 557}}
+{"date": "2005-09-08", "stock_open": "1236.359985", "stock_close": "1231.670044", "email count": 3}
+{"index": {"_index": "stock", "_id": 558}}
+{"date": "2005-09-09", "stock_open": "1231.670044", "stock_close": "1241.47998", "email count": 2}
+{"index": {"_index": "stock", "_id": 559}}
+{"date": "2005-09-13", "stock_open": "1240.569946", "stock_close": "1231.199951", "email count": 2}
+{"index": {"_index": "stock", "_id": 560}}
+{"date": "2005-09-14", "stock_open": "1231.199951", "stock_close": "1227.160034", "email count": 3}
+{"index": {"_index": "stock", "_id": 561}}
+{"date": "2005-09-19", "stock_open": "1237.910034", "stock_close": "1231.02002", "email count": 1}
+{"index": {"_index": "stock", "_id": 562}}
+{"date": "2005-09-20", "stock_open": "1231.02002", "stock_close": "1221.339966", "email count": 4}
+{"index": {"_index": "stock", "_id": 563}}
+{"date": "2005-09-21", "stock_open": "1221.339966", "stock_close": "1210.199951", "email count": 2}
+{"index": {"_index": "stock", "_id": 564}}
+{"date": "2005-09-22", "stock_open": "1210.199951", "stock_close": "1214.619995", "email count": 2}
+{"index": {"_index": "stock", "_id": 565}}
+{"date": "2005-09-23", "stock_open": "1214.619995", "stock_close": "1215.290039", "email count": 6}
+{"index": {"_index": "stock", "_id": 566}}
+{"date": "2005-09-26", "stock_open": "1215.290039", "stock_close": "1215.630005", "email count": 2}
+{"index": {"_index": "stock", "_id": 567}}
+{"date": "2005-09-27", "stock_open": "1215.630005", "stock_close": "1215.660034", "email count": 6}
+{"index": {"_index": "stock", "_id": 568}}
+{"date": "2005-09-28", "stock_open": "1215.660034", "stock_close": "1216.890015", "email count": 4}
+{"index": {"_index": "stock", "_id": 569}}
+{"date": "2005-09-30", "stock_open": "1227.680054", "stock_close": "1228.810059", "email count": 2}
+{"index": {"_index": "stock", "_id": 570}}
+{"date": "2005-10-04", "stock_open": "1226.699951", "stock_close": "1214.469971", "email count": 2}
+{"index": {"_index": "stock", "_id": 571}}
+{"date": "2005-10-05", "stock_open": "1214.469971", "stock_close": "1196.390015", "email count": 2}
+{"index": {"_index": "stock", "_id": 572}}
+{"date": "2005-10-07", "stock_open": "1191.48999", "stock_close": "1195.900024", "email count": 6}
+{"index": {"_index": "stock", "_id": 573}}
+{"date": "2005-10-10", "stock_open": "1195.900024", "stock_close": "1187.329956", "email count": 3}
+{"index": {"_index": "stock", "_id": 574}}
+{"date": "2005-10-11", "stock_open": "1187.329956", "stock_close": "1184.869995", "email count": 2}
+{"index": {"_index": "stock", "_id": 575}}
+{"date": "2005-10-13", "stock_open": "1177.680054", "stock_close": "1176.839966", "email count": 1}
+{"index": {"_index": "stock", "_id": 576}}
+{"date": "2005-10-14", "stock_open": "1176.839966", "stock_close": "1186.569946", "email count": 3}
+{"index": {"_index": "stock", "_id": 577}}
+{"date": "2005-10-17", "stock_open": "1186.569946", "stock_close": "1190.099976", "email count": 1}
+{"index": {"_index": "stock", "_id": 578}}
+{"date": "2005-10-18", "stock_open": "1190.099976", "stock_close": "1178.140015", "email count": 1}
+{"index": {"_index": "stock", "_id": 579}}
+{"date": "2005-10-21", "stock_open": "1177.800049", "stock_close": "1179.589966", "email count": 2}
+{"index": {"_index": "stock", "_id": 580}}
+{"date": "2005-10-24", "stock_open": "1179.589966", "stock_close": "1199.380005", "email count": 3}
+{"index": {"_index": "stock", "_id": 581}}
+{"date": "2005-10-25", "stock_open": "1199.380005", "stock_close": "1196.540039", "email count": 2}
+{"index": {"_index": "stock", "_id": 582}}
+{"date": "2005-10-26", "stock_open": "1196.540039", "stock_close": "1191.380005", "email count": 1}
+{"index": {"_index": "stock", "_id": 583}}
+{"date": "2005-10-27", "stock_open": "1191.380005", "stock_close": "1178.900024", "email count": 3}
+{"index": {"_index": "stock", "_id": 584}}
+{"date": "2005-10-31", "stock_open": "1198.410034", "stock_close": "1207.01001", "email count": 4}
+{"index": {"_index": "stock", "_id": 585}}
+{"date": "2005-11-01", "stock_open": "1207.01001", "stock_close": "1202.76001", "email count": 4}
+{"index": {"_index": "stock", "_id": 586}}
+{"date": "2005-11-03", "stock_open": "1214.76001", "stock_close": "1219.939941", "email count": 1}
+{"index": {"_index": "stock", "_id": 587}}
+{"date": "2005-11-04", "stock_open": "1219.939941", "stock_close": "1220.140015", "email count": 5}
+{"index": {"_index": "stock", "_id": 588}}
+{"date": "2005-11-08", "stock_open": "1222.810059", "stock_close": "1218.589966", "email count": 2}
+{"index": {"_index": "stock", "_id": 589}}
+{"date": "2005-11-09", "stock_open": "1218.589966", "stock_close": "1220.650024", "email count": 3}
+{"index": {"_index": "stock", "_id": 590}}
+{"date": "2005-11-10", "stock_open": "1220.650024", "stock_close": "1230.959961", "email count": 4}
+{"index": {"_index": "stock", "_id": 591}}
+{"date": "2005-11-11", "stock_open": "1230.959961", "stock_close": "1234.719971", "email count": 4}
+{"index": {"_index": "stock", "_id": 592}}
+{"date": "2005-11-14", "stock_open": "1234.719971", "stock_close": "1233.76001", "email count": 3}
+{"index": {"_index": "stock", "_id": 593}}
+{"date": "2005-11-15", "stock_open": "1233.76001", "stock_close": "1229.01001", "email count": 1}
+{"index": {"_index": "stock", "_id": 594}}
+{"date": "2005-11-16", "stock_open": "1229.01001", "stock_close": "1231.209961", "email count": 1}
+{"index": {"_index": "stock", "_id": 595}}
+{"date": "2005-11-17", "stock_open": "1231.209961", "stock_close": "1242.800049", "email count": 3}
+{"index": {"_index": "stock", "_id": 596}}
+{"date": "2005-11-18", "stock_open": "1242.800049", "stock_close": "1248.27002", "email count": 2}
+{"index": {"_index": "stock", "_id": 597}}
+{"date": "2005-11-21", "stock_open": "1248.27002", "stock_close": "1254.849976", "email count": 2}
+{"index": {"_index": "stock", "_id": 598}}
+{"date": "2005-11-22", "stock_open": "1254.849976", "stock_close": "1261.22998", "email count": 3}
+{"index": {"_index": "stock", "_id": 599}}
+{"date": "2005-11-23", "stock_open": "1261.22998", "stock_close": "1265.609985", "email count": 8}
+{"index": {"_index": "stock", "_id": 600}}
+{"date": "2005-11-25", "stock_open": "1265.609985", "stock_close": "1268.25", "email count": 2}
+{"index": {"_index": "stock", "_id": 601}}
+{"date": "2005-11-28", "stock_open": "1268.25", "stock_close": "1257.459961", "email count": 3}
+{"index": {"_index": "stock", "_id": 602}}
+{"date": "2005-11-29", "stock_open": "1257.459961", "stock_close": "1257.47998", "email count": 10}
+{"index": {"_index": "stock", "_id": 603}}
+{"date": "2005-11-30", "stock_open": "1257.47998", "stock_close": "1249.47998", "email count": 1}
+{"index": {"_index": "stock", "_id": 604}}
+{"date": "2005-12-01", "stock_open": "1249.47998", "stock_close": "1264.670044", "email count": 1}
+{"index": {"_index": "stock", "_id": 605}}
+{"date": "2005-12-05", "stock_open": "1265.079956", "stock_close": "1262.089966", "email count": 3}
+{"index": {"_index": "stock", "_id": 606}}
+{"date": "2005-12-06", "stock_open": "1262.089966", "stock_close": "1263.699951", "email count": 3}
+{"index": {"_index": "stock", "_id": 607}}
+{"date": "2005-12-07", "stock_open": "1263.699951", "stock_close": "1257.369995", "email count": 3}
+{"index": {"_index": "stock", "_id": 608}}
+{"date": "2005-12-12", "stock_open": "1259.369995", "stock_close": "1260.430054", "email count": 5}
+{"index": {"_index": "stock", "_id": 609}}
+{"date": "2005-12-13", "stock_open": "1260.430054", "stock_close": "1267.430054", "email count": 1}
+{"index": {"_index": "stock", "_id": 610}}
+{"date": "2005-12-14", "stock_open": "1267.430054", "stock_close": "1272.73999", "email count": 2}
+{"index": {"_index": "stock", "_id": 611}}
+{"date": "2005-12-15", "stock_open": "1272.73999", "stock_close": "1270.939941", "email count": 3}
+{"index": {"_index": "stock", "_id": 612}}
+{"date": "2005-12-19", "stock_open": "1267.319946", "stock_close": "1259.920044", "email count": 2}
+{"index": {"_index": "stock", "_id": 613}}
+{"date": "2005-12-21", "stock_open": "1259.619995", "stock_close": "1262.790039", "email count": 3}
+{"index": {"_index": "stock", "_id": 614}}
+{"date": "2005-12-22", "stock_open": "1262.790039", "stock_close": "1268.119995", "email count": 3}
+{"index": {"_index": "stock", "_id": 615}}
+{"date": "2005-12-23", "stock_open": "1268.119995", "stock_close": "1268.660034", "email count": 2}
+{"index": {"_index": "stock", "_id": 616}}
+{"date": "2005-12-28", "stock_open": "1256.540039", "stock_close": "1258.170044", "email count": 4}
+{"index": {"_index": "stock", "_id": 617}}
+{"date": "2005-12-29", "stock_open": "1258.170044", "stock_close": "1254.420044", "email count": 3}
+{"index": {"_index": "stock", "_id": 618}}
+{"date": "2005-12-30", "stock_open": "1254.420044", "stock_close": "1248.290039", "email count": 1}
+{"index": {"_index": "stock", "_id": 619}}
+{"date": "2006-01-03", "stock_open": "1248.290039", "stock_close": "1268.800049", "email count": 2}
+{"index": {"_index": "stock", "_id": 620}}
+{"date": "2006-01-04", "stock_open": "1268.800049", "stock_close": "1273.459961", "email count": 4}
+{"index": {"_index": "stock", "_id": 621}}
+{"date": "2006-01-05", "stock_open": "1273.459961", "stock_close": "1273.47998", "email count": 1}
+{"index": {"_index": "stock", "_id": 622}}
+{"date": "2006-01-06", "stock_open": "1273.47998", "stock_close": "1285.449951", "email count": 5}
+{"index": {"_index": "stock", "_id": 623}}
+{"date": "2006-01-10", "stock_open": "1290.150024", "stock_close": "1289.689941", "email count": 2}
+{"index": {"_index": "stock", "_id": 624}}
+{"date": "2006-01-11", "stock_open": "1289.719971", "stock_close": "1294.180054", "email count": 1}
+{"index": {"_index": "stock", "_id": 625}}
+{"date": "2006-01-12", "stock_open": "1294.180054", "stock_close": "1286.060059", "email count": 2}
+{"index": {"_index": "stock", "_id": 626}}
+{"date": "2006-01-13", "stock_open": "1286.060059", "stock_close": "1287.609985", "email count": 7}
+{"index": {"_index": "stock", "_id": 627}}
+{"date": "2006-01-17", "stock_open": "1287.609985", "stock_close": "1282.930054", "email count": 4}
+{"index": {"_index": "stock", "_id": 628}}
+{"date": "2006-01-18", "stock_open": "1282.930054", "stock_close": "1277.930054", "email count": 2}
+{"index": {"_index": "stock", "_id": 629}}
+{"date": "2006-01-19", "stock_open": "1277.930054", "stock_close": "1285.040039", "email count": 6}
+{"index": {"_index": "stock", "_id": 630}}
+{"date": "2006-01-20", "stock_open": "1285.040039", "stock_close": "1261.48999", "email count": 2}
+{"index": {"_index": "stock", "_id": 631}}
+{"date": "2006-01-23", "stock_open": "1261.48999", "stock_close": "1263.819946", "email count": 1}
+{"index": {"_index": "stock", "_id": 632}}
+{"date": "2006-01-24", "stock_open": "1263.819946", "stock_close": "1266.859985", "email count": 4}
+{"index": {"_index": "stock", "_id": 633}}
+{"date": "2006-01-25", "stock_open": "1266.859985", "stock_close": "1264.680054", "email count": 3}
+{"index": {"_index": "stock", "_id": 634}}
+{"date": "2006-01-26", "stock_open": "1264.680054", "stock_close": "1273.829956", "email count": 4}
+{"index": {"_index": "stock", "_id": 635}}
+{"date": "2006-01-27", "stock_open": "1273.829956", "stock_close": "1283.719971", "email count": 3}
+{"index": {"_index": "stock", "_id": 636}}
+{"date": "2006-01-30", "stock_open": "1283.719971", "stock_close": "1285.189941", "email count": 4}
+{"index": {"_index": "stock", "_id": 637}}
+{"date": "2006-01-31", "stock_open": "1285.199951", "stock_close": "1280.079956", "email count": 2}
+{"index": {"_index": "stock", "_id": 638}}
+{"date": "2006-02-01", "stock_open": "1280.079956", "stock_close": "1282.459961", "email count": 2}
+{"index": {"_index": "stock", "_id": 639}}
+{"date": "2006-02-02", "stock_open": "1282.459961", "stock_close": "1270.839966", "email count": 6}
+{"index": {"_index": "stock", "_id": 640}}
+{"date": "2006-02-03", "stock_open": "1270.839966", "stock_close": "1264.030029", "email count": 9}
+{"index": {"_index": "stock", "_id": 641}}
+{"date": "2006-02-06", "stock_open": "1264.030029", "stock_close": "1265.02002", "email count": 8}
+{"index": {"_index": "stock", "_id": 642}}
+{"date": "2006-02-07", "stock_open": "1265.02002", "stock_close": "1254.780029", "email count": 2}
+{"index": {"_index": "stock", "_id": 643}}
+{"date": "2006-02-08", "stock_open": "1254.780029", "stock_close": "1265.650024", "email count": 5}
+{"index": {"_index": "stock", "_id": 644}}
+{"date": "2006-02-09", "stock_open": "1265.650024", "stock_close": "1263.780029", "email count": 5}
+{"index": {"_index": "stock", "_id": 645}}
+{"date": "2006-02-10", "stock_open": "1263.819946", "stock_close": "1266.98999", "email count": 5}
+{"index": {"_index": "stock", "_id": 646}}
+{"date": "2006-02-13", "stock_open": "1266.98999", "stock_close": "1262.859985", "email count": 3}
+{"index": {"_index": "stock", "_id": 647}}
+{"date": "2006-02-14", "stock_open": "1262.859985", "stock_close": "1275.530029", "email count": 7}
+{"index": {"_index": "stock", "_id": 648}}
+{"date": "2006-02-15", "stock_open": "1275.530029", "stock_close": "1280.0", "email count": 8}
+{"index": {"_index": "stock", "_id": 649}}
+{"date": "2006-02-16", "stock_open": "1280.0", "stock_close": "1289.380005", "email count": 3}
+{"index": {"_index": "stock", "_id": 650}}
+{"date": "2006-02-17", "stock_open": "1289.380005", "stock_close": "1287.23999", "email count": 2}
+{"index": {"_index": "stock", "_id": 651}}
+{"date": "2006-02-21", "stock_open": "1287.23999", "stock_close": "1283.030029", "email count": 8}
+{"index": {"_index": "stock", "_id": 652}}
+{"date": "2006-02-22", "stock_open": "1283.030029", "stock_close": "1292.670044", "email count": 2}
+{"index": {"_index": "stock", "_id": 653}}
+{"date": "2006-02-23", "stock_open": "1292.670044", "stock_close": "1287.790039", "email count": 2}
+{"index": {"_index": "stock", "_id": 654}}
+{"date": "2006-02-24", "stock_open": "1287.790039", "stock_close": "1289.430054", "email count": 8}
+{"index": {"_index": "stock", "_id": 655}}
+{"date": "2006-02-27", "stock_open": "1289.430054", "stock_close": "1294.119995", "email count": 1}
+{"index": {"_index": "stock", "_id": 656}}
+{"date": "2006-02-28", "stock_open": "1294.119995", "stock_close": "1280.660034", "email count": 4}
+{"index": {"_index": "stock", "_id": 657}}
+{"date": "2006-03-01", "stock_open": "1280.660034", "stock_close": "1291.23999", "email count": 9}
+{"index": {"_index": "stock", "_id": 658}}
+{"date": "2006-03-02", "stock_open": "1291.23999", "stock_close": "1289.140015", "email count": 4}
+{"index": {"_index": "stock", "_id": 659}}
+{"date": "2006-03-03", "stock_open": "1289.140015", "stock_close": "1287.22998", "email count": 7}
+{"index": {"_index": "stock", "_id": 660}}
+{"date": "2006-03-06", "stock_open": "1287.22998", "stock_close": "1278.26001", "email count": 5}
+{"index": {"_index": "stock", "_id": 661}}
+{"date": "2006-03-07", "stock_open": "1278.26001", "stock_close": "1275.880005", "email count": 6}
+{"index": {"_index": "stock", "_id": 662}}
+{"date": "2006-03-08", "stock_open": "1275.880005", "stock_close": "1278.469971", "email count": 2}
+{"index": {"_index": "stock", "_id": 663}}
+{"date": "2006-03-09", "stock_open": "1278.469971", "stock_close": "1272.22998", "email count": 2}
+{"index": {"_index": "stock", "_id": 664}}
+{"date": "2006-03-10", "stock_open": "1272.22998", "stock_close": "1281.420044", "email count": 8}
+{"index": {"_index": "stock", "_id": 665}}
+{"date": "2006-03-13", "stock_open": "1281.579956", "stock_close": "1284.130005", "email count": 5}
+{"index": {"_index": "stock", "_id": 666}}
+{"date": "2006-03-14", "stock_open": "1284.130005", "stock_close": "1297.47998", "email count": 2}
+{"index": {"_index": "stock", "_id": 667}}
+{"date": "2006-03-15", "stock_open": "1297.47998", "stock_close": "1303.02002", "email count": 8}
+{"index": {"_index": "stock", "_id": 668}}
+{"date": "2006-03-16", "stock_open": "1303.02002", "stock_close": "1305.329956", "email count": 1}
+{"index": {"_index": "stock", "_id": 669}}
+{"date": "2006-03-17", "stock_open": "1305.329956", "stock_close": "1307.25", "email count": 4}
+{"index": {"_index": "stock", "_id": 670}}
+{"date": "2006-03-20", "stock_open": "1307.25", "stock_close": "1305.079956", "email count": 5}
+{"index": {"_index": "stock", "_id": 671}}
+{"date": "2006-03-21", "stock_open": "1305.079956", "stock_close": "1297.22998", "email count": 3}
+{"index": {"_index": "stock", "_id": 672}}
+{"date": "2006-03-22", "stock_open": "1297.22998", "stock_close": "1305.040039", "email count": 6}
+{"index": {"_index": "stock", "_id": 673}}
+{"date": "2006-03-23", "stock_open": "1305.040039", "stock_close": "1301.670044", "email count": 3}
+{"index": {"_index": "stock", "_id": 674}}
+{"date": "2006-03-24", "stock_open": "1301.670044", "stock_close": "1302.949951", "email count": 3}
+{"index": {"_index": "stock", "_id": 675}}
+{"date": "2006-03-27", "stock_open": "1302.949951", "stock_close": "1301.609985", "email count": 1}
+{"index": {"_index": "stock", "_id": 676}}
+{"date": "2006-03-28", "stock_open": "1301.609985", "stock_close": "1293.22998", "email count": 3}
+{"index": {"_index": "stock", "_id": 677}}
+{"date": "2006-03-29", "stock_open": "1293.22998", "stock_close": "1302.890015", "email count": 1}
+{"index": {"_index": "stock", "_id": 678}}
+{"date": "2006-03-30", "stock_open": "1302.890015", "stock_close": "1300.25", "email count": 6}
+{"index": {"_index": "stock", "_id": 679}}
+{"date": "2006-03-31", "stock_open": "1300.25", "stock_close": "1294.869995", "email count": 2}
+{"index": {"_index": "stock", "_id": 680}}
+{"date": "2006-04-03", "stock_open": "1302.880005", "stock_close": "1297.810059", "email count": 1}
+{"index": {"_index": "stock", "_id": 681}}
+{"date": "2006-04-04", "stock_open": "1297.810059", "stock_close": "1305.930054", "email count": 5}
+{"index": {"_index": "stock", "_id": 682}}
+{"date": "2006-04-05", "stock_open": "1305.930054", "stock_close": "1311.560059", "email count": 6}
+{"index": {"_index": "stock", "_id": 683}}
+{"date": "2006-04-06", "stock_open": "1311.560059", "stock_close": "1309.040039", "email count": 2}
+{"index": {"_index": "stock", "_id": 684}}
+{"date": "2006-04-07", "stock_open": "1309.040039", "stock_close": "1295.5", "email count": 4}
+{"index": {"_index": "stock", "_id": 685}}
+{"date": "2006-04-10", "stock_open": "1295.51001", "stock_close": "1296.619995", "email count": 4}
+{"index": {"_index": "stock", "_id": 686}}
+{"date": "2006-04-11", "stock_open": "1296.599976", "stock_close": "1286.569946", "email count": 4}
+{"index": {"_index": "stock", "_id": 687}}
+{"date": "2006-04-12", "stock_open": "1286.569946", "stock_close": "1288.119995", "email count": 3}
+{"index": {"_index": "stock", "_id": 688}}
+{"date": "2006-04-13", "stock_open": "1288.119995", "stock_close": "1289.119995", "email count": 1}
+{"index": {"_index": "stock", "_id": 689}}
+{"date": "2006-04-17", "stock_open": "1289.119995", "stock_close": "1285.329956", "email count": 6}
+{"index": {"_index": "stock", "_id": 690}}
+{"date": "2006-04-19", "stock_open": "1307.650024", "stock_close": "1309.930054", "email count": 7}
+{"index": {"_index": "stock", "_id": 691}}
+{"date": "2006-04-20", "stock_open": "1309.930054", "stock_close": "1311.459961", "email count": 4}
+{"index": {"_index": "stock", "_id": 692}}
+{"date": "2006-04-21", "stock_open": "1311.459961", "stock_close": "1311.280029", "email count": 6}
+{"index": {"_index": "stock", "_id": 693}}
+{"date": "2006-04-24", "stock_open": "1311.280029", "stock_close": "1308.109985", "email count": 7}
+{"index": {"_index": "stock", "_id": 694}}
+{"date": "2006-04-25", "stock_open": "1308.109985", "stock_close": "1301.73999", "email count": 5}
+{"index": {"_index": "stock", "_id": 695}}
+{"date": "2006-04-26", "stock_open": "1301.73999", "stock_close": "1305.410034", "email count": 7}
+{"index": {"_index": "stock", "_id": 696}}
+{"date": "2006-04-27", "stock_open": "1305.410034", "stock_close": "1309.719971", "email count": 2}
+{"index": {"_index": "stock", "_id": 697}}
+{"date": "2006-04-28", "stock_open": "1309.719971", "stock_close": "1310.609985", "email count": 2}
+{"index": {"_index": "stock", "_id": 698}}
+{"date": "2006-05-01", "stock_open": "1310.609985", "stock_close": "1305.189941", "email count": 4}
+{"index": {"_index": "stock", "_id": 699}}
+{"date": "2006-05-02", "stock_open": "1305.189941", "stock_close": "1313.209961", "email count": 5}
+{"index": {"_index": "stock", "_id": 700}}
+{"date": "2006-05-03", "stock_open": "1313.209961", "stock_close": "1308.119995", "email count": 7}
+{"index": {"_index": "stock", "_id": 701}}
+{"date": "2006-05-04", "stock_open": "1307.849976", "stock_close": "1312.25", "email count": 4}
+{"index": {"_index": "stock", "_id": 702}}
+{"date": "2006-05-05", "stock_open": "1312.25", "stock_close": "1325.76001", "email count": 4}
+{"index": {"_index": "stock", "_id": 703}}
+{"date": "2006-05-08", "stock_open": "1325.76001", "stock_close": "1324.660034", "email count": 2}
+{"index": {"_index": "stock", "_id": 704}}
+{"date": "2006-05-09", "stock_open": "1324.660034", "stock_close": "1325.140015", "email count": 1}
+{"index": {"_index": "stock", "_id": 705}}
+{"date": "2006-05-10", "stock_open": "1324.569946", "stock_close": "1322.849976", "email count": 3}
+{"index": {"_index": "stock", "_id": 706}}
+{"date": "2006-05-11", "stock_open": "1322.630005", "stock_close": "1305.920044", "email count": 1}
+{"index": {"_index": "stock", "_id": 707}}
+{"date": "2006-05-12", "stock_open": "1305.880005", "stock_close": "1291.23999", "email count": 5}
+{"index": {"_index": "stock", "_id": 708}}
+{"date": "2006-05-15", "stock_open": "1291.189941", "stock_close": "1294.5", "email count": 11}
+{"index": {"_index": "stock", "_id": 709}}
+{"date": "2006-05-16", "stock_open": "1294.5", "stock_close": "1292.079956", "email count": 2}
+{"index": {"_index": "stock", "_id": 710}}
+{"date": "2006-05-17", "stock_open": "1291.72998", "stock_close": "1270.319946", "email count": 2}
+{"index": {"_index": "stock", "_id": 711}}
+{"date": "2006-05-18", "stock_open": "1270.25", "stock_close": "1261.810059", "email count": 2}
+{"index": {"_index": "stock", "_id": 712}}
+{"date": "2006-05-19", "stock_open": "1261.810059", "stock_close": "1267.030029", "email count": 3}
+{"index": {"_index": "stock", "_id": 713}}
+{"date": "2006-05-22", "stock_open": "1267.030029", "stock_close": "1262.069946", "email count": 4}
+{"index": {"_index": "stock", "_id": 714}}
+{"date": "2006-05-23", "stock_open": "1262.060059", "stock_close": "1256.579956", "email count": 5}
+{"index": {"_index": "stock", "_id": 715}}
+{"date": "2006-05-24", "stock_open": "1256.560059", "stock_close": "1258.569946", "email count": 6}
+{"index": {"_index": "stock", "_id": 716}}
+{"date": "2006-05-25", "stock_open": "1258.410034", "stock_close": "1272.880005", "email count": 15}
+{"index": {"_index": "stock", "_id": 717}}
+{"date": "2006-05-26", "stock_open": "1272.709961", "stock_close": "1280.160034", "email count": 11}
+{"index": {"_index": "stock", "_id": 718}}
+{"date": "2006-05-30", "stock_open": "1280.040039", "stock_close": "1259.869995", "email count": 2}
+{"index": {"_index": "stock", "_id": 719}}
+{"date": "2006-05-31", "stock_open": "1259.380005", "stock_close": "1270.089966", "email count": 6}
+{"index": {"_index": "stock", "_id": 720}}
+{"date": "2006-06-01", "stock_open": "1270.050049", "stock_close": "1285.709961", "email count": 6}
+{"index": {"_index": "stock", "_id": 721}}
+{"date": "2006-06-02", "stock_open": "1285.709961", "stock_close": "1288.219971", "email count": 4}
+{"index": {"_index": "stock", "_id": 722}}
+{"date": "2006-06-05", "stock_open": "1288.160034", "stock_close": "1265.290039", "email count": 7}
+{"index": {"_index": "stock", "_id": 723}}
+{"date": "2006-06-06", "stock_open": "1265.22998", "stock_close": "1263.849976", "email count": 8}
+{"index": {"_index": "stock", "_id": 724}}
+{"date": "2006-06-07", "stock_open": "1263.609985", "stock_close": "1256.150024", "email count": 11}
+{"index": {"_index": "stock", "_id": 725}}
+{"date": "2006-06-08", "stock_open": "1256.079956", "stock_close": "1257.930054", "email count": 6}
+{"index": {"_index": "stock", "_id": 726}}
+{"date": "2006-06-09", "stock_open": "1257.930054", "stock_close": "1252.300049", "email count": 2}
+{"index": {"_index": "stock", "_id": 727}}
+{"date": "2006-06-12", "stock_open": "1252.27002", "stock_close": "1237.439941", "email count": 2}
+{"index": {"_index": "stock", "_id": 728}}
+{"date": "2006-06-13", "stock_open": "1236.079956", "stock_close": "1223.689941", "email count": 8}
+{"index": {"_index": "stock", "_id": 729}}
+{"date": "2006-06-14", "stock_open": "1223.660034", "stock_close": "1230.040039", "email count": 4}
+{"index": {"_index": "stock", "_id": 730}}
+{"date": "2006-06-15", "stock_open": "1230.01001", "stock_close": "1256.160034", "email count": 8}
+{"index": {"_index": "stock", "_id": 731}}
+{"date": "2006-06-16", "stock_open": "1256.160034", "stock_close": "1251.540039", "email count": 7}
+{"index": {"_index": "stock", "_id": 732}}
+{"date": "2006-06-19", "stock_open": "1251.540039", "stock_close": "1240.130005", "email count": 5}
+{"index": {"_index": "stock", "_id": 733}}
+{"date": "2006-06-20", "stock_open": "1240.119995", "stock_close": "1240.119995", "email count": 4}
+{"index": {"_index": "stock", "_id": 734}}
+{"date": "2006-06-21", "stock_open": "1240.089966", "stock_close": "1252.199951", "email count": 9}
+{"index": {"_index": "stock", "_id": 735}}
+{"date": "2006-06-22", "stock_open": "1251.920044", "stock_close": "1245.599976", "email count": 4}
+{"index": {"_index": "stock", "_id": 736}}
+{"date": "2006-06-23", "stock_open": "1245.589966", "stock_close": "1244.5", "email count": 3}
+{"index": {"_index": "stock", "_id": 737}}
+{"date": "2006-06-26", "stock_open": "1244.5", "stock_close": "1250.560059", "email count": 5}
+{"index": {"_index": "stock", "_id": 738}}
+{"date": "2006-06-27", "stock_open": "1250.550049", "stock_close": "1239.199951", "email count": 8}
+{"index": {"_index": "stock", "_id": 739}}
+{"date": "2006-06-28", "stock_open": "1238.98999", "stock_close": "1246.0", "email count": 5}
+{"index": {"_index": "stock", "_id": 740}}
+{"date": "2006-06-29", "stock_open": "1245.939941", "stock_close": "1272.869995", "email count": 7}
+{"index": {"_index": "stock", "_id": 741}}
+{"date": "2006-06-30", "stock_open": "1272.859985", "stock_close": "1270.199951", "email count": 6}
+{"index": {"_index": "stock", "_id": 742}}
+{"date": "2006-07-03", "stock_open": "1270.060059", "stock_close": "1280.189941", "email count": 2}
+{"index": {"_index": "stock", "_id": 743}}
+{"date": "2006-07-05", "stock_open": "1280.050049", "stock_close": "1270.910034", "email count": 6}
+{"index": {"_index": "stock", "_id": 744}}
+{"date": "2006-07-07", "stock_open": "1274.079956", "stock_close": "1265.47998", "email count": 12}
+{"index": {"_index": "stock", "_id": 745}}
+{"date": "2006-07-10", "stock_open": "1265.459961", "stock_close": "1267.339966", "email count": 10}
+{"index": {"_index": "stock", "_id": 746}}
+{"date": "2006-07-11", "stock_open": "1267.26001", "stock_close": "1272.430054", "email count": 7}
+{"index": {"_index": "stock", "_id": 747}}
+{"date": "2006-07-12", "stock_open": "1272.390015", "stock_close": "1258.599976", "email count": 5}
+{"index": {"_index": "stock", "_id": 748}}
+{"date": "2006-07-13", "stock_open": "1258.579956", "stock_close": "1242.280029", "email count": 4}
+{"index": {"_index": "stock", "_id": 749}}
+{"date": "2006-07-14", "stock_open": "1242.290039", "stock_close": "1236.199951", "email count": 7}
+{"index": {"_index": "stock", "_id": 750}}
+{"date": "2006-07-17", "stock_open": "1236.199951", "stock_close": "1234.48999", "email count": 2}
+{"index": {"_index": "stock", "_id": 751}}
+{"date": "2006-07-18", "stock_open": "1234.47998", "stock_close": "1236.859985", "email count": 5}
+{"index": {"_index": "stock", "_id": 752}}
+{"date": "2006-07-19", "stock_open": "1236.73999", "stock_close": "1259.810059", "email count": 1}
+{"index": {"_index": "stock", "_id": 753}}
+{"date": "2006-07-20", "stock_open": "1259.810059", "stock_close": "1249.130005", "email count": 6}
+{"index": {"_index": "stock", "_id": 754}}
+{"date": "2006-07-21", "stock_open": "1249.119995", "stock_close": "1240.290039", "email count": 6}
+{"index": {"_index": "stock", "_id": 755}}
+{"date": "2006-07-24", "stock_open": "1240.25", "stock_close": "1260.910034", "email count": 4}
+{"index": {"_index": "stock", "_id": 756}}
+{"date": "2006-07-25", "stock_open": "1260.910034", "stock_close": "1268.880005", "email count": 4}
+{"index": {"_index": "stock", "_id": 757}}
+{"date": "2006-07-26", "stock_open": "1268.869995", "stock_close": "1268.400024", "email count": 3}
+{"index": {"_index": "stock", "_id": 758}}
+{"date": "2006-07-27", "stock_open": "1268.199951", "stock_close": "1263.199951", "email count": 5}
+{"index": {"_index": "stock", "_id": 759}}
+{"date": "2006-07-28", "stock_open": "1263.150024", "stock_close": "1278.550049", "email count": 1}
+{"index": {"_index": "stock", "_id": 760}}
+{"date": "2006-07-31", "stock_open": "1278.530029", "stock_close": "1276.660034", "email count": 2}
+{"index": {"_index": "stock", "_id": 761}}
+{"date": "2006-08-01", "stock_open": "1278.530029", "stock_close": "1270.920044", "email count": 4}
+{"index": {"_index": "stock", "_id": 762}}
+{"date": "2006-08-02", "stock_open": "1270.72998", "stock_close": "1277.410034", "email count": 6}
+{"index": {"_index": "stock", "_id": 763}}
+{"date": "2006-08-03", "stock_open": "1278.219971", "stock_close": "1280.27002", "email count": 1}
+{"index": {"_index": "stock", "_id": 764}}
+{"date": "2006-08-04", "stock_open": "1280.26001", "stock_close": "1279.359985", "email count": 4}
+{"index": {"_index": "stock", "_id": 765}}
+{"date": "2006-08-07", "stock_open": "1279.310059", "stock_close": "1275.77002", "email count": 2}
+{"index": {"_index": "stock", "_id": 766}}
+{"date": "2006-08-08", "stock_open": "1275.670044", "stock_close": "1271.47998", "email count": 2}
+{"index": {"_index": "stock", "_id": 767}}
+{"date": "2006-08-09", "stock_open": "1271.130005", "stock_close": "1265.949951", "email count": 6}
+{"index": {"_index": "stock", "_id": 768}}
+{"date": "2006-08-11", "stock_open": "1271.640015", "stock_close": "1266.73999", "email count": 2}
+{"index": {"_index": "stock", "_id": 769}}
+{"date": "2006-08-14", "stock_open": "1266.670044", "stock_close": "1268.209961", "email count": 4}
+{"index": {"_index": "stock", "_id": 770}}
+{"date": "2006-08-15", "stock_open": "1268.189941", "stock_close": "1285.579956", "email count": 2}
+{"index": {"_index": "stock", "_id": 771}}
+{"date": "2006-08-16", "stock_open": "1285.27002", "stock_close": "1295.430054", "email count": 2}
+{"index": {"_index": "stock", "_id": 772}}
+{"date": "2006-08-17", "stock_open": "1295.369995", "stock_close": "1297.47998", "email count": 5}
+{"index": {"_index": "stock", "_id": 773}}
+{"date": "2006-08-18", "stock_open": "1297.47998", "stock_close": "1302.300049", "email count": 1}
+{"index": {"_index": "stock", "_id": 774}}
+{"date": "2006-08-21", "stock_open": "1302.300049", "stock_close": "1297.52002", "email count": 3}
+{"index": {"_index": "stock", "_id": 775}}
+{"date": "2006-08-22", "stock_open": "1297.52002", "stock_close": "1298.819946", "email count": 1}
+{"index": {"_index": "stock", "_id": 776}}
+{"date": "2006-08-23", "stock_open": "1298.72998", "stock_close": "1292.98999", "email count": 3}
+{"index": {"_index": "stock", "_id": 777}}
+{"date": "2006-08-24", "stock_open": "1292.969971", "stock_close": "1296.060059", "email count": 3}
+{"index": {"_index": "stock", "_id": 778}}
+{"date": "2006-08-25", "stock_open": "1295.920044", "stock_close": "1295.089966", "email count": 4}
+{"index": {"_index": "stock", "_id": 779}}
+{"date": "2006-08-28", "stock_open": "1295.089966", "stock_close": "1301.780029", "email count": 4}
+{"index": {"_index": "stock", "_id": 780}}
+{"date": "2006-08-29", "stock_open": "1301.569946", "stock_close": "1304.280029", "email count": 4}
+{"index": {"_index": "stock", "_id": 781}}
+{"date": "2006-08-30", "stock_open": "1303.699951", "stock_close": "1305.369995", "email count": 1}
+{"index": {"_index": "stock", "_id": 782}}
+{"date": "2006-08-31", "stock_open": "1304.25", "stock_close": "1303.819946", "email count": 4}
+{"index": {"_index": "stock", "_id": 783}}
+{"date": "2006-09-01", "stock_open": "1303.800049", "stock_close": "1311.01001", "email count": 5}
+{"index": {"_index": "stock", "_id": 784}}
+{"date": "2006-09-05", "stock_open": "1310.939941", "stock_close": "1313.25", "email count": 11}
+{"index": {"_index": "stock", "_id": 785}}
+{"date": "2006-09-06", "stock_open": "1313.040039", "stock_close": "1300.26001", "email count": 5}
+{"index": {"_index": "stock", "_id": 786}}
+{"date": "2006-09-07", "stock_open": "1300.209961", "stock_close": "1294.02002", "email count": 4}
+{"index": {"_index": "stock", "_id": 787}}
+{"date": "2006-09-08", "stock_open": "1294.02002", "stock_close": "1298.920044", "email count": 4}
+{"index": {"_index": "stock", "_id": 788}}
+{"date": "2006-09-11", "stock_open": "1298.859985", "stock_close": "1299.540039", "email count": 4}
+{"index": {"_index": "stock", "_id": 789}}
+{"date": "2006-09-12", "stock_open": "1299.530029", "stock_close": "1313.0", "email count": 6}
+{"index": {"_index": "stock", "_id": 790}}
+{"date": "2006-09-13", "stock_open": "1312.73999", "stock_close": "1318.069946", "email count": 3}
+{"index": {"_index": "stock", "_id": 791}}
+{"date": "2006-09-14", "stock_open": "1318.0", "stock_close": "1316.280029", "email count": 7}
+{"index": {"_index": "stock", "_id": 792}}
+{"date": "2006-09-15", "stock_open": "1316.280029", "stock_close": "1319.660034", "email count": 5}
+{"index": {"_index": "stock", "_id": 793}}
+{"date": "2006-09-18", "stock_open": "1319.849976", "stock_close": "1321.180054", "email count": 5}
+{"index": {"_index": "stock", "_id": 794}}
+{"date": "2006-09-19", "stock_open": "1321.170044", "stock_close": "1317.640015", "email count": 3}
+{"index": {"_index": "stock", "_id": 795}}
+{"date": "2006-09-20", "stock_open": "1318.280029", "stock_close": "1325.180054", "email count": 3}
+{"index": {"_index": "stock", "_id": 796}}
+{"date": "2006-09-21", "stock_open": "1324.890015", "stock_close": "1318.030029", "email count": 5}
+{"index": {"_index": "stock", "_id": 797}}
+{"date": "2006-09-22", "stock_open": "1318.030029", "stock_close": "1314.780029", "email count": 4}
+{"index": {"_index": "stock", "_id": 798}}
+{"date": "2006-09-26", "stock_open": "1326.349976", "stock_close": "1336.349976", "email count": 9}
+{"index": {"_index": "stock", "_id": 799}}
+{"date": "2006-09-27", "stock_open": "1336.119995", "stock_close": "1336.589966", "email count": 1}
+{"index": {"_index": "stock", "_id": 800}}
+{"date": "2006-09-28", "stock_open": "1336.560059", "stock_close": "1338.880005", "email count": 5}
+{"index": {"_index": "stock", "_id": 801}}
+{"date": "2006-09-29", "stock_open": "1339.150024", "stock_close": "1335.849976", "email count": 4}
+{"index": {"_index": "stock", "_id": 802}}
+{"date": "2006-10-02", "stock_open": "1335.819946", "stock_close": "1331.319946", "email count": 7}
+{"index": {"_index": "stock", "_id": 803}}
+{"date": "2006-10-03", "stock_open": "1331.319946", "stock_close": "1334.109985", "email count": 5}
+{"index": {"_index": "stock", "_id": 804}}
+{"date": "2006-10-04", "stock_open": "1333.810059", "stock_close": "1350.199951", "email count": 2}
+{"index": {"_index": "stock", "_id": 805}}
+{"date": "2006-10-05", "stock_open": "1349.839966", "stock_close": "1353.219971", "email count": 4}
+{"index": {"_index": "stock", "_id": 806}}
+{"date": "2006-10-06", "stock_open": "1353.219971", "stock_close": "1349.589966", "email count": 5}
+{"index": {"_index": "stock", "_id": 807}}
+{"date": "2006-10-09", "stock_open": "1349.579956", "stock_close": "1350.660034", "email count": 2}
+{"index": {"_index": "stock", "_id": 808}}
+{"date": "2006-10-10", "stock_open": "1350.619995", "stock_close": "1353.420044", "email count": 4}
+{"index": {"_index": "stock", "_id": 809}}
+{"date": "2006-10-12", "stock_open": "1349.939941", "stock_close": "1362.829956", "email count": 5}
+{"index": {"_index": "stock", "_id": 810}}
+{"date": "2006-10-13", "stock_open": "1362.819946", "stock_close": "1365.619995", "email count": 6}
+{"index": {"_index": "stock", "_id": 811}}
+{"date": "2006-10-16", "stock_open": "1365.609985", "stock_close": "1369.060059", "email count": 5}
+{"index": {"_index": "stock", "_id": 812}}
+{"date": "2006-10-17", "stock_open": "1369.050049", "stock_close": "1364.050049", "email count": 7}
+{"index": {"_index": "stock", "_id": 813}}
+{"date": "2006-10-18", "stock_open": "1363.930054", "stock_close": "1365.800049", "email count": 7}
+{"index": {"_index": "stock", "_id": 814}}
+{"date": "2006-10-19", "stock_open": "1365.949951", "stock_close": "1366.959961", "email count": 7}
+{"index": {"_index": "stock", "_id": 815}}
+{"date": "2006-10-20", "stock_open": "1366.939941", "stock_close": "1368.599976", "email count": 3}
+{"index": {"_index": "stock", "_id": 816}}
+{"date": "2006-10-23", "stock_open": "1368.579956", "stock_close": "1377.02002", "email count": 1}
+{"index": {"_index": "stock", "_id": 817}}
+{"date": "2006-10-24", "stock_open": "1377.02002", "stock_close": "1377.380005", "email count": 3}
+{"index": {"_index": "stock", "_id": 818}}
+{"date": "2006-10-25", "stock_open": "1377.359985", "stock_close": "1382.219971", "email count": 7}
+{"index": {"_index": "stock", "_id": 819}}
+{"date": "2006-10-26", "stock_open": "1382.209961", "stock_close": "1389.079956", "email count": 3}
+{"index": {"_index": "stock", "_id": 820}}
+{"date": "2006-10-27", "stock_open": "1388.890015", "stock_close": "1377.339966", "email count": 2}
+{"index": {"_index": "stock", "_id": 821}}
+{"date": "2006-10-30", "stock_open": "1377.300049", "stock_close": "1377.930054", "email count": 5}
+{"index": {"_index": "stock", "_id": 822}}
+{"date": "2006-10-31", "stock_open": "1377.930054", "stock_close": "1377.939941", "email count": 7}
+{"index": {"_index": "stock", "_id": 823}}
+{"date": "2006-11-01", "stock_open": "1377.76001", "stock_close": "1367.810059", "email count": 1}
+{"index": {"_index": "stock", "_id": 824}}
+{"date": "2006-11-02", "stock_open": "1367.439941", "stock_close": "1367.339966", "email count": 4}
+{"index": {"_index": "stock", "_id": 825}}
+{"date": "2006-11-03", "stock_open": "1367.310059", "stock_close": "1364.300049", "email count": 1}
+{"index": {"_index": "stock", "_id": 826}}
+{"date": "2006-11-06", "stock_open": "1364.27002", "stock_close": "1379.780029", "email count": 4}
+{"index": {"_index": "stock", "_id": 827}}
+{"date": "2006-11-07", "stock_open": "1379.75", "stock_close": "1382.839966", "email count": 4}
+{"index": {"_index": "stock", "_id": 828}}
+{"date": "2006-11-08", "stock_open": "1382.5", "stock_close": "1385.719971", "email count": 7}
+{"index": {"_index": "stock", "_id": 829}}
+{"date": "2006-11-09", "stock_open": "1385.430054", "stock_close": "1378.329956", "email count": 2}
+{"index": {"_index": "stock", "_id": 830}}
+{"date": "2006-11-10", "stock_open": "1378.329956", "stock_close": "1380.900024", "email count": 8}
+{"index": {"_index": "stock", "_id": 831}}
+{"date": "2006-11-13", "stock_open": "1380.579956", "stock_close": "1384.420044", "email count": 4}
+{"index": {"_index": "stock", "_id": 832}}
+{"date": "2006-11-14", "stock_open": "1384.359985", "stock_close": "1393.219971", "email count": 4}
+{"index": {"_index": "stock", "_id": 833}}
+{"date": "2006-11-15", "stock_open": "1392.910034", "stock_close": "1396.569946", "email count": 5}
+{"index": {"_index": "stock", "_id": 834}}
+{"date": "2006-11-16", "stock_open": "1396.530029", "stock_close": "1399.76001", "email count": 3}
+{"index": {"_index": "stock", "_id": 835}}
+{"date": "2006-11-17", "stock_open": "1399.76001", "stock_close": "1401.199951", "email count": 4}
+{"index": {"_index": "stock", "_id": 836}}
+{"date": "2006-11-20", "stock_open": "1401.170044", "stock_close": "1400.5", "email count": 1}
+{"index": {"_index": "stock", "_id": 837}}
+{"date": "2006-11-21", "stock_open": "1400.430054", "stock_close": "1402.810059", "email count": 3}
+{"index": {"_index": "stock", "_id": 838}}
+{"date": "2006-11-22", "stock_open": "1402.689941", "stock_close": "1406.089966", "email count": 3}
+{"index": {"_index": "stock", "_id": 839}}
+{"date": "2006-11-24", "stock_open": "1405.939941", "stock_close": "1400.949951", "email count": 6}
+{"index": {"_index": "stock", "_id": 840}}
+{"date": "2006-11-27", "stock_open": "1400.949951", "stock_close": "1381.959961", "email count": 3}
+{"index": {"_index": "stock", "_id": 841}}
+{"date": "2006-11-28", "stock_open": "1381.609985", "stock_close": "1386.719971", "email count": 5}
+{"index": {"_index": "stock", "_id": 842}}
+{"date": "2006-11-29", "stock_open": "1386.109985", "stock_close": "1399.47998", "email count": 4}
+{"index": {"_index": "stock", "_id": 843}}
+{"date": "2006-11-30", "stock_open": "1399.469971", "stock_close": "1400.630005", "email count": 2}
+{"index": {"_index": "stock", "_id": 844}}
+{"date": "2006-12-01", "stock_open": "1400.630005", "stock_close": "1396.709961", "email count": 3}
+{"index": {"_index": "stock", "_id": 845}}
+{"date": "2006-12-04", "stock_open": "1396.670044", "stock_close": "1409.119995", "email count": 10}
+{"index": {"_index": "stock", "_id": 846}}
+{"date": "2006-12-05", "stock_open": "1409.099976", "stock_close": "1414.76001", "email count": 8}
+{"index": {"_index": "stock", "_id": 847}}
+{"date": "2006-12-06", "stock_open": "1414.400024", "stock_close": "1412.900024", "email count": 5}
+{"index": {"_index": "stock", "_id": 848}}
+{"date": "2006-12-07", "stock_open": "1412.859985", "stock_close": "1407.290039", "email count": 4}
+{"index": {"_index": "stock", "_id": 849}}
+{"date": "2006-12-08", "stock_open": "1407.27002", "stock_close": "1409.839966", "email count": 1}
+{"index": {"_index": "stock", "_id": 850}}
+{"date": "2006-12-11", "stock_open": "1409.810059", "stock_close": "1413.040039", "email count": 1}
+{"index": {"_index": "stock", "_id": 851}}
+{"date": "2006-12-12", "stock_open": "1413.0", "stock_close": "1411.560059", "email count": 6}
+{"index": {"_index": "stock", "_id": 852}}
+{"date": "2006-12-13", "stock_open": "1411.319946", "stock_close": "1413.209961", "email count": 2}
+{"index": {"_index": "stock", "_id": 853}}
+{"date": "2006-12-14", "stock_open": "1413.160034", "stock_close": "1425.48999", "email count": 9}
+{"index": {"_index": "stock", "_id": 854}}
+{"date": "2006-12-15", "stock_open": "1425.47998", "stock_close": "1427.089966", "email count": 3}
+{"index": {"_index": "stock", "_id": 855}}
+{"date": "2006-12-19", "stock_open": "1422.420044", "stock_close": "1425.550049", "email count": 6}
+{"index": {"_index": "stock", "_id": 856}}
+{"date": "2006-12-21", "stock_open": "1423.199951", "stock_close": "1418.300049", "email count": 1}
+{"index": {"_index": "stock", "_id": 857}}
+{"date": "2006-12-22", "stock_open": "1418.099976", "stock_close": "1410.76001", "email count": 2}
+{"index": {"_index": "stock", "_id": 858}}
+{"date": "2006-12-26", "stock_open": "1410.75", "stock_close": "1416.900024", "email count": 4}
+{"index": {"_index": "stock", "_id": 859}}
+{"date": "2006-12-27", "stock_open": "1416.630005", "stock_close": "1426.839966", "email count": 1}
+{"index": {"_index": "stock", "_id": 860}}
+{"date": "2006-12-28", "stock_open": "1426.77002", "stock_close": "1424.72998", "email count": 4}
+{"index": {"_index": "stock", "_id": 861}}
+{"date": "2006-12-29", "stock_open": "1424.709961", "stock_close": "1418.300049", "email count": 2}
+{"index": {"_index": "stock", "_id": 862}}
+{"date": "2007-01-03", "stock_open": "1418.030029", "stock_close": "1416.599976", "email count": 3}
+{"index": {"_index": "stock", "_id": 863}}
+{"date": "2007-01-04", "stock_open": "1416.599976", "stock_close": "1418.339966", "email count": 5}
+{"index": {"_index": "stock", "_id": 864}}
+{"date": "2007-01-05", "stock_open": "1418.339966", "stock_close": "1409.709961", "email count": 3}
+{"index": {"_index": "stock", "_id": 865}}
+{"date": "2007-01-08", "stock_open": "1409.26001", "stock_close": "1412.839966", "email count": 2}
+{"index": {"_index": "stock", "_id": 866}}
+{"date": "2007-01-09", "stock_open": "1412.839966", "stock_close": "1412.109985", "email count": 4}
+{"index": {"_index": "stock", "_id": 867}}
+{"date": "2007-01-10", "stock_open": "1408.699951", "stock_close": "1414.849976", "email count": 2}
+{"index": {"_index": "stock", "_id": 868}}
+{"date": "2007-01-11", "stock_open": "1414.839966", "stock_close": "1423.819946", "email count": 5}
+{"index": {"_index": "stock", "_id": 869}}
+{"date": "2007-01-12", "stock_open": "1423.819946", "stock_close": "1430.72998", "email count": 2}
+{"index": {"_index": "stock", "_id": 870}}
+{"date": "2007-01-16", "stock_open": "1430.72998", "stock_close": "1431.900024", "email count": 4}
+{"index": {"_index": "stock", "_id": 871}}
+{"date": "2007-01-17", "stock_open": "1431.77002", "stock_close": "1430.619995", "email count": 4}
+{"index": {"_index": "stock", "_id": 872}}
+{"date": "2007-01-18", "stock_open": "1430.589966", "stock_close": "1426.369995", "email count": 2}
+{"index": {"_index": "stock", "_id": 873}}
+{"date": "2007-01-19", "stock_open": "1426.349976", "stock_close": "1430.5", "email count": 2}
+{"index": {"_index": "stock", "_id": 874}}
+{"date": "2007-01-22", "stock_open": "1430.469971", "stock_close": "1422.949951", "email count": 1}
+{"index": {"_index": "stock", "_id": 875}}
+{"date": "2007-01-23", "stock_open": "1422.949951", "stock_close": "1427.98999", "email count": 2}
+{"index": {"_index": "stock", "_id": 876}}
+{"date": "2007-01-24", "stock_open": "1427.959961", "stock_close": "1440.130005", "email count": 2}
+{"index": {"_index": "stock", "_id": 877}}
+{"date": "2007-01-25", "stock_open": "1440.119995", "stock_close": "1423.900024", "email count": 1}
+{"index": {"_index": "stock", "_id": 878}}
+{"date": "2007-01-26", "stock_open": "1423.900024", "stock_close": "1422.180054", "email count": 4}
+{"index": {"_index": "stock", "_id": 879}}
+{"date": "2007-01-29", "stock_open": "1422.030029", "stock_close": "1420.619995", "email count": 2}
+{"index": {"_index": "stock", "_id": 880}}
+{"date": "2007-01-30", "stock_open": "1420.609985", "stock_close": "1428.819946", "email count": 4}
+{"index": {"_index": "stock", "_id": 881}}
+{"date": "2007-01-31", "stock_open": "1428.650024", "stock_close": "1438.23999", "email count": 3}
+{"index": {"_index": "stock", "_id": 882}}
+{"date": "2007-02-01", "stock_open": "1437.900024", "stock_close": "1445.939941", "email count": 4}
+{"index": {"_index": "stock", "_id": 883}}
+{"date": "2007-02-02", "stock_open": "1445.939941", "stock_close": "1448.390015", "email count": 1}
+{"index": {"_index": "stock", "_id": 884}}
+{"date": "2007-02-05", "stock_open": "1448.329956", "stock_close": "1446.98999", "email count": 3}
+{"index": {"_index": "stock", "_id": 885}}
+{"date": "2007-02-06", "stock_open": "1446.97998", "stock_close": "1448.0", "email count": 1}
+{"index": {"_index": "stock", "_id": 886}}
+{"date": "2007-02-07", "stock_open": "1447.410034", "stock_close": "1450.02002", "email count": 2}
+{"index": {"_index": "stock", "_id": 887}}
+{"date": "2007-02-08", "stock_open": "1449.98999", "stock_close": "1448.310059", "email count": 1}
+{"index": {"_index": "stock", "_id": 888}}
+{"date": "2007-02-09", "stock_open": "1448.25", "stock_close": "1438.060059", "email count": 3}
+{"index": {"_index": "stock", "_id": 889}}
+{"date": "2007-02-13", "stock_open": "1433.219971", "stock_close": "1444.26001", "email count": 5}
+{"index": {"_index": "stock", "_id": 890}}
+{"date": "2007-02-14", "stock_open": "1443.910034", "stock_close": "1455.300049", "email count": 3}
+{"index": {"_index": "stock", "_id": 891}}
+{"date": "2007-02-16", "stock_open": "1456.77002", "stock_close": "1455.540039", "email count": 1}
+{"index": {"_index": "stock", "_id": 892}}
+{"date": "2007-02-20", "stock_open": "1455.530029", "stock_close": "1459.680054", "email count": 1}
+{"index": {"_index": "stock", "_id": 893}}
+{"date": "2007-02-21", "stock_open": "1459.599976", "stock_close": "1457.630005", "email count": 1}
+{"index": {"_index": "stock", "_id": 894}}
+{"date": "2007-02-22", "stock_open": "1457.290039", "stock_close": "1456.380005", "email count": 5}
+{"index": {"_index": "stock", "_id": 895}}
+{"date": "2007-02-23", "stock_open": "1456.219971", "stock_close": "1451.189941", "email count": 3}
+{"index": {"_index": "stock", "_id": 896}}
+{"date": "2007-02-27", "stock_open": "1449.25", "stock_close": "1399.040039", "email count": 1}
+{"index": {"_index": "stock", "_id": 897}}
+{"date": "2007-02-28", "stock_open": "1398.640015", "stock_close": "1406.819946", "email count": 2}
+{"index": {"_index": "stock", "_id": 898}}
+{"date": "2007-03-01", "stock_open": "1406.800049", "stock_close": "1403.170044", "email count": 1}
+{"index": {"_index": "stock", "_id": 899}}
+{"date": "2007-03-05", "stock_open": "1387.109985", "stock_close": "1374.119995", "email count": 4}
+{"index": {"_index": "stock", "_id": 900}}
+{"date": "2007-03-06", "stock_open": "1374.060059", "stock_close": "1395.410034", "email count": 1}
+{"index": {"_index": "stock", "_id": 901}}
+{"date": "2007-03-07", "stock_open": "1395.02002", "stock_close": "1391.969971", "email count": 4}
+{"index": {"_index": "stock", "_id": 902}}
+{"date": "2007-03-08", "stock_open": "1391.880005", "stock_close": "1401.890015", "email count": 2}
+{"index": {"_index": "stock", "_id": 903}}
+{"date": "2007-03-09", "stock_open": "1401.890015", "stock_close": "1402.839966", "email count": 1}
+{"index": {"_index": "stock", "_id": 904}}
+{"date": "2007-03-13", "stock_open": "1406.22998", "stock_close": "1377.949951", "email count": 6}
+{"index": {"_index": "stock", "_id": 905}}
+{"date": "2007-03-14", "stock_open": "1377.859985", "stock_close": "1387.170044", "email count": 2}
+{"index": {"_index": "stock", "_id": 906}}
+{"date": "2007-03-15", "stock_open": "1387.109985", "stock_close": "1392.280029", "email count": 4}
+{"index": {"_index": "stock", "_id": 907}}
+{"date": "2007-03-16", "stock_open": "1392.280029", "stock_close": "1386.949951", "email count": 4}
+{"index": {"_index": "stock", "_id": 908}}
+{"date": "2007-03-19", "stock_open": "1386.949951", "stock_close": "1402.060059", "email count": 2}
+{"index": {"_index": "stock", "_id": 909}}
+{"date": "2007-03-20", "stock_open": "1402.040039", "stock_close": "1410.939941", "email count": 1}
+{"index": {"_index": "stock", "_id": 910}}
+{"date": "2007-03-21", "stock_open": "1410.920044", "stock_close": "1435.040039", "email count": 3}
+{"index": {"_index": "stock", "_id": 911}}
+{"date": "2007-03-22", "stock_open": "1435.040039", "stock_close": "1434.540039", "email count": 1}
+{"index": {"_index": "stock", "_id": 912}}
+{"date": "2007-03-26", "stock_open": "1436.109985", "stock_close": "1437.5", "email count": 7}
+{"index": {"_index": "stock", "_id": 913}}
+{"date": "2007-03-27", "stock_open": "1437.48999", "stock_close": "1428.609985", "email count": 1}
+{"index": {"_index": "stock", "_id": 914}}
+{"date": "2007-03-28", "stock_open": "1428.349976", "stock_close": "1417.22998", "email count": 2}
+{"index": {"_index": "stock", "_id": 915}}
+{"date": "2007-03-29", "stock_open": "1417.170044", "stock_close": "1422.530029", "email count": 2}
+{"index": {"_index": "stock", "_id": 916}}
+{"date": "2007-03-30", "stock_open": "1422.52002", "stock_close": "1420.859985", "email count": 2}
+{"index": {"_index": "stock", "_id": 917}}
+{"date": "2007-04-02", "stock_open": "1420.829956", "stock_close": "1424.550049", "email count": 5}
+{"index": {"_index": "stock", "_id": 918}}
+{"date": "2007-04-03", "stock_open": "1424.27002", "stock_close": "1437.77002", "email count": 6}
+{"index": {"_index": "stock", "_id": 919}}
+{"date": "2007-04-04", "stock_open": "1437.75", "stock_close": "1439.369995", "email count": 3}
+{"index": {"_index": "stock", "_id": 920}}
+{"date": "2007-04-05", "stock_open": "1438.939941", "stock_close": "1443.76001", "email count": 2}
+{"index": {"_index": "stock", "_id": 921}}
+{"date": "2007-04-09", "stock_open": "1443.77002", "stock_close": "1444.609985", "email count": 2}
+{"index": {"_index": "stock", "_id": 922}}
+{"date": "2007-04-10", "stock_open": "1444.579956", "stock_close": "1448.390015", "email count": 1}
+{"index": {"_index": "stock", "_id": 923}}
+{"date": "2007-04-12", "stock_open": "1438.869995", "stock_close": "1447.800049", "email count": 3}
+{"index": {"_index": "stock", "_id": 924}}
+{"date": "2007-04-13", "stock_open": "1447.800049", "stock_close": "1452.849976", "email count": 4}
+{"index": {"_index": "stock", "_id": 925}}
+{"date": "2007-04-16", "stock_open": "1452.839966", "stock_close": "1468.329956", "email count": 3}
+{"index": {"_index": "stock", "_id": 926}}
+{"date": "2007-04-17", "stock_open": "1468.469971", "stock_close": "1471.47998", "email count": 4}
+{"index": {"_index": "stock", "_id": 927}}
+{"date": "2007-04-18", "stock_open": "1471.469971", "stock_close": "1472.5", "email count": 2}
+{"index": {"_index": "stock", "_id": 928}}
+{"date": "2007-04-19", "stock_open": "1472.47998", "stock_close": "1470.72998", "email count": 4}
+{"index": {"_index": "stock", "_id": 929}}
+{"date": "2007-04-20", "stock_open": "1470.689941", "stock_close": "1484.349976", "email count": 7}
+{"index": {"_index": "stock", "_id": 930}}
+{"date": "2007-04-23", "stock_open": "1484.329956", "stock_close": "1480.930054", "email count": 5}
+{"index": {"_index": "stock", "_id": 931}}
+{"date": "2007-04-24", "stock_open": "1480.930054", "stock_close": "1480.410034", "email count": 4}
+{"index": {"_index": "stock", "_id": 932}}
+{"date": "2007-04-25", "stock_open": "1480.280029", "stock_close": "1495.420044", "email count": 2}
+{"index": {"_index": "stock", "_id": 933}}
+{"date": "2007-04-26", "stock_open": "1495.27002", "stock_close": "1494.25", "email count": 2}
+{"index": {"_index": "stock", "_id": 934}}
+{"date": "2007-04-27", "stock_open": "1494.209961", "stock_close": "1494.069946", "email count": 1}
+{"index": {"_index": "stock", "_id": 935}}
+{"date": "2007-04-30", "stock_open": "1494.069946", "stock_close": "1482.369995", "email count": 1}
+{"index": {"_index": "stock", "_id": 936}}
+{"date": "2007-05-01", "stock_open": "1482.369995", "stock_close": "1486.300049", "email count": 1}
+{"index": {"_index": "stock", "_id": 937}}
+{"date": "2007-05-02", "stock_open": "1486.130005", "stock_close": "1495.920044", "email count": 1}
+{"index": {"_index": "stock", "_id": 938}}
+{"date": "2007-05-03", "stock_open": "1495.560059", "stock_close": "1502.390015", "email count": 4}
+{"index": {"_index": "stock", "_id": 939}}
+{"date": "2007-05-04", "stock_open": "1502.349976", "stock_close": "1505.619995", "email count": 3}
+{"index": {"_index": "stock", "_id": 940}}
+{"date": "2007-05-08", "stock_open": "1509.359985", "stock_close": "1507.719971", "email count": 2}
+{"index": {"_index": "stock", "_id": 941}}
+{"date": "2007-05-09", "stock_open": "1507.319946", "stock_close": "1512.579956", "email count": 2}
+{"index": {"_index": "stock", "_id": 942}}
+{"date": "2007-05-11", "stock_open": "1491.469971", "stock_close": "1505.849976", "email count": 5}
+{"index": {"_index": "stock", "_id": 943}}
+{"date": "2007-05-14", "stock_open": "1505.76001", "stock_close": "1503.150024", "email count": 2}
+{"index": {"_index": "stock", "_id": 944}}
+{"date": "2007-05-16", "stock_open": "1500.75", "stock_close": "1514.140015", "email count": 1}
+{"index": {"_index": "stock", "_id": 945}}
+{"date": "2007-05-17", "stock_open": "1514.01001", "stock_close": "1512.75", "email count": 4}
+{"index": {"_index": "stock", "_id": 946}}
+{"date": "2007-05-18", "stock_open": "1512.73999", "stock_close": "1522.75", "email count": 1}
+{"index": {"_index": "stock", "_id": 947}}
+{"date": "2007-05-22", "stock_open": "1525.099976", "stock_close": "1524.119995", "email count": 3}
+{"index": {"_index": "stock", "_id": 948}}
+{"date": "2007-05-23", "stock_open": "1524.089966", "stock_close": "1522.280029", "email count": 3}
+{"index": {"_index": "stock", "_id": 949}}
+{"date": "2007-05-24", "stock_open": "1522.099976", "stock_close": "1507.51001", "email count": 1}
+{"index": {"_index": "stock", "_id": 950}}
+{"date": "2007-05-25", "stock_open": "1507.5", "stock_close": "1515.72998", "email count": 3}
+{"index": {"_index": "stock", "_id": 951}}
+{"date": "2007-05-29", "stock_open": "1515.550049", "stock_close": "1518.109985", "email count": 2}
+{"index": {"_index": "stock", "_id": 952}}
+{"date": "2007-05-31", "stock_open": "1530.189941", "stock_close": "1530.619995", "email count": 1}
+{"index": {"_index": "stock", "_id": 953}}
+{"date": "2007-06-04", "stock_open": "1536.280029", "stock_close": "1539.180054", "email count": 4}
+{"index": {"_index": "stock", "_id": 954}}
+{"date": "2007-06-05", "stock_open": "1539.119995", "stock_close": "1530.949951", "email count": 2}
+{"index": {"_index": "stock", "_id": 955}}
+{"date": "2007-06-06", "stock_open": "1530.569946", "stock_close": "1517.380005", "email count": 1}
+{"index": {"_index": "stock", "_id": 956}}
+{"date": "2007-06-07", "stock_open": "1517.359985", "stock_close": "1490.719971", "email count": 3}
+{"index": {"_index": "stock", "_id": 957}}
+{"date": "2007-06-08", "stock_open": "1490.709961", "stock_close": "1507.670044", "email count": 2}
+{"index": {"_index": "stock", "_id": 958}}
+{"date": "2007-06-11", "stock_open": "1507.640015", "stock_close": "1509.119995", "email count": 3}
+{"index": {"_index": "stock", "_id": 959}}
+{"date": "2007-06-12", "stock_open": "1509.119995", "stock_close": "1493.0", "email count": 3}
+{"index": {"_index": "stock", "_id": 960}}
+{"date": "2007-06-13", "stock_open": "1492.650024", "stock_close": "1515.670044", "email count": 1}
+{"index": {"_index": "stock", "_id": 961}}
+{"date": "2007-06-14", "stock_open": "1515.579956", "stock_close": "1522.969971", "email count": 4}
+{"index": {"_index": "stock", "_id": 962}}
+{"date": "2007-06-15", "stock_open": "1522.969971", "stock_close": "1532.910034", "email count": 1}
+{"index": {"_index": "stock", "_id": 963}}
+{"date": "2007-06-18", "stock_open": "1532.900024", "stock_close": "1531.050049", "email count": 1}
+{"index": {"_index": "stock", "_id": 964}}
+{"date": "2007-06-20", "stock_open": "1533.680054", "stock_close": "1512.839966", "email count": 3}
+{"index": {"_index": "stock", "_id": 965}}
+{"date": "2007-06-21", "stock_open": "1512.5", "stock_close": "1522.189941", "email count": 2}
+{"index": {"_index": "stock", "_id": 966}}
+{"date": "2007-06-22", "stock_open": "1522.189941", "stock_close": "1502.560059", "email count": 4}
+{"index": {"_index": "stock", "_id": 967}}
+{"date": "2007-06-25", "stock_open": "1502.560059", "stock_close": "1497.73999", "email count": 4}
+{"index": {"_index": "stock", "_id": 968}}
+{"date": "2007-06-26", "stock_open": "1497.680054", "stock_close": "1492.890015", "email count": 4}
+{"index": {"_index": "stock", "_id": 969}}
+{"date": "2007-06-27", "stock_open": "1492.619995", "stock_close": "1506.339966", "email count": 8}
+{"index": {"_index": "stock", "_id": 970}}
+{"date": "2007-06-28", "stock_open": "1506.319946", "stock_close": "1505.709961", "email count": 2}
+{"index": {"_index": "stock", "_id": 971}}
+{"date": "2007-06-29", "stock_open": "1505.699951", "stock_close": "1503.349976", "email count": 2}
+{"index": {"_index": "stock", "_id": 972}}
+{"date": "2007-07-02", "stock_open": "1504.660034", "stock_close": "1519.430054", "email count": 2}
+{"index": {"_index": "stock", "_id": 973}}
+{"date": "2007-07-03", "stock_open": "1519.119995", "stock_close": "1524.869995", "email count": 4}
+{"index": {"_index": "stock", "_id": 974}}
+{"date": "2007-07-05", "stock_open": "1524.859985", "stock_close": "1525.400024", "email count": 1}
+{"index": {"_index": "stock", "_id": 975}}
+{"date": "2007-07-06", "stock_open": "1524.959961", "stock_close": "1530.439941", "email count": 5}
+{"index": {"_index": "stock", "_id": 976}}
+{"date": "2007-07-09", "stock_open": "1530.430054", "stock_close": "1531.849976", "email count": 2}
+{"index": {"_index": "stock", "_id": 977}}
+{"date": "2007-07-10", "stock_open": "1531.849976", "stock_close": "1510.119995", "email count": 3}
+{"index": {"_index": "stock", "_id": 978}}
+{"date": "2007-07-11", "stock_open": "1509.930054", "stock_close": "1518.76001", "email count": 5}
+{"index": {"_index": "stock", "_id": 979}}
+{"date": "2007-07-12", "stock_open": "1518.73999", "stock_close": "1547.699951", "email count": 3}
+{"index": {"_index": "stock", "_id": 980}}
+{"date": "2007-07-13", "stock_open": "1547.680054", "stock_close": "1552.5", "email count": 5}
+{"index": {"_index": "stock", "_id": 981}}
+{"date": "2007-07-16", "stock_open": "1552.5", "stock_close": "1549.52002", "email count": 3}
+{"index": {"_index": "stock", "_id": 982}}
+{"date": "2007-07-17", "stock_open": "1549.52002", "stock_close": "1549.369995", "email count": 2}
+{"index": {"_index": "stock", "_id": 983}}
+{"date": "2007-07-18", "stock_open": "1549.199951", "stock_close": "1546.170044", "email count": 2}
+{"index": {"_index": "stock", "_id": 984}}
+{"date": "2007-07-19", "stock_open": "1546.130005", "stock_close": "1553.079956", "email count": 4}
+{"index": {"_index": "stock", "_id": 985}}
+{"date": "2007-07-20", "stock_open": "1553.189941", "stock_close": "1534.099976", "email count": 1}
+{"index": {"_index": "stock", "_id": 986}}
+{"date": "2007-07-23", "stock_open": "1534.060059", "stock_close": "1541.569946", "email count": 4}
+{"index": {"_index": "stock", "_id": 987}}
+{"date": "2007-07-24", "stock_open": "1541.569946", "stock_close": "1511.040039", "email count": 4}
+{"index": {"_index": "stock", "_id": 988}}
+{"date": "2007-07-26", "stock_open": "1518.089966", "stock_close": "1482.660034", "email count": 2}
+{"index": {"_index": "stock", "_id": 989}}
+{"date": "2007-07-27", "stock_open": "1482.439941", "stock_close": "1458.949951", "email count": 5}
+{"index": {"_index": "stock", "_id": 990}}
+{"date": "2007-07-30", "stock_open": "1458.930054", "stock_close": "1473.910034", "email count": 1}
+{"index": {"_index": "stock", "_id": 991}}
+{"date": "2007-07-31", "stock_open": "1473.900024", "stock_close": "1455.27002", "email count": 2}
+{"index": {"_index": "stock", "_id": 992}}
+{"date": "2007-08-01", "stock_open": "1455.180054", "stock_close": "1465.810059", "email count": 1}
+{"index": {"_index": "stock", "_id": 993}}
+{"date": "2007-08-02", "stock_open": "1465.459961", "stock_close": "1472.199951", "email count": 3}
+{"index": {"_index": "stock", "_id": 994}}
+{"date": "2007-08-03", "stock_open": "1472.180054", "stock_close": "1433.060059", "email count": 2}
+{"index": {"_index": "stock", "_id": 995}}
+{"date": "2007-08-06", "stock_open": "1433.040039", "stock_close": "1467.670044", "email count": 1}
+{"index": {"_index": "stock", "_id": 996}}
+{"date": "2007-08-07", "stock_open": "1467.619995", "stock_close": "1476.709961", "email count": 7}
+{"index": {"_index": "stock", "_id": 997}}
+{"date": "2007-08-08", "stock_open": "1476.219971", "stock_close": "1497.48999", "email count": 3}
+{"index": {"_index": "stock", "_id": 998}}
+{"date": "2007-08-09", "stock_open": "1497.209961", "stock_close": "1453.089966", "email count": 5}
+{"index": {"_index": "stock", "_id": 999}}
+{"date": "2007-08-10", "stock_open": "1453.089966", "stock_close": "1453.640015", "email count": 4}
+{"index": {"_index": "stock", "_id": 1000}}
+{"date": "2007-08-13", "stock_open": "1453.420044", "stock_close": "1452.920044", "email count": 2}
+{"index": {"_index": "stock", "_id": 1001}}
+{"date": "2007-08-15", "stock_open": "1426.150024", "stock_close": "1406.699951", "email count": 3}
+{"index": {"_index": "stock", "_id": 1002}}
+{"date": "2007-08-16", "stock_open": "1406.640015", "stock_close": "1411.27002", "email count": 2}
+{"index": {"_index": "stock", "_id": 1003}}
+{"date": "2007-08-17", "stock_open": "1411.26001", "stock_close": "1445.939941", "email count": 1}
+{"index": {"_index": "stock", "_id": 1004}}
+{"date": "2007-08-20", "stock_open": "1445.939941", "stock_close": "1445.550049", "email count": 1}
+{"index": {"_index": "stock", "_id": 1005}}
+{"date": "2007-08-21", "stock_open": "1445.550049", "stock_close": "1447.119995", "email count": 2}
+{"index": {"_index": "stock", "_id": 1006}}
+{"date": "2007-08-22", "stock_open": "1447.030029", "stock_close": "1464.069946", "email count": 3}
+{"index": {"_index": "stock", "_id": 1007}}
+{"date": "2007-08-23", "stock_open": "1464.050049", "stock_close": "1462.5", "email count": 2}
+{"index": {"_index": "stock", "_id": 1008}}
+{"date": "2007-08-24", "stock_open": "1462.339966", "stock_close": "1479.369995", "email count": 1}
+{"index": {"_index": "stock", "_id": 1009}}
+{"date": "2007-08-27", "stock_open": "1479.359985", "stock_close": "1466.790039", "email count": 4}
+{"index": {"_index": "stock", "_id": 1010}}
+{"date": "2007-08-28", "stock_open": "1466.719971", "stock_close": "1432.359985", "email count": 1}
+{"index": {"_index": "stock", "_id": 1011}}
+{"date": "2007-08-29", "stock_open": "1432.01001", "stock_close": "1463.76001", "email count": 7}
+{"index": {"_index": "stock", "_id": 1012}}
+{"date": "2007-08-31", "stock_open": "1457.609985", "stock_close": "1473.98999", "email count": 3}
+{"index": {"_index": "stock", "_id": 1013}}
+{"date": "2007-09-06", "stock_open": "1472.030029", "stock_close": "1478.550049", "email count": 3}
+{"index": {"_index": "stock", "_id": 1014}}
+{"date": "2007-09-07", "stock_open": "1478.550049", "stock_close": "1453.550049", "email count": 3}
+{"index": {"_index": "stock", "_id": 1015}}
+{"date": "2007-09-10", "stock_open": "1453.5", "stock_close": "1451.699951", "email count": 1}
+{"index": {"_index": "stock", "_id": 1016}}
+{"date": "2007-09-12", "stock_open": "1471.099976", "stock_close": "1471.560059", "email count": 1}
+{"index": {"_index": "stock", "_id": 1017}}
+{"date": "2007-09-13", "stock_open": "1471.469971", "stock_close": "1483.949951", "email count": 3}
+{"index": {"_index": "stock", "_id": 1018}}
+{"date": "2007-09-14", "stock_open": "1483.949951", "stock_close": "1484.25", "email count": 1}
+{"index": {"_index": "stock", "_id": 1019}}
+{"date": "2007-09-17", "stock_open": "1484.23999", "stock_close": "1476.650024", "email count": 2}
+{"index": {"_index": "stock", "_id": 1020}}
+{"date": "2007-09-18", "stock_open": "1476.630005", "stock_close": "1519.780029", "email count": 2}
+{"index": {"_index": "stock", "_id": 1021}}
+{"date": "2007-09-19", "stock_open": "1519.75", "stock_close": "1529.030029", "email count": 1}
