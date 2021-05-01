@@ -1,6 +1,6 @@
 # Building Visual Apps to Explore Fake Scientific People and Literature using Data Science: Creating Data Insights
 
-[Quick Access to Instructions](docs/DSCI550_Spring2021_HW_WEBDATAVIZ_PHISHING.pdf) | [Quick Access to Report](#) 
+[Quick Access to Instructions](docs/DSCI550_Spring2021_HW_WEBDATAVIZ_PHISHING.pdf) | [Quick Access to Report](TEAM_GINGERDONKEY_DATAVIS.pdf) 
 
 ## Prerequisite
 
